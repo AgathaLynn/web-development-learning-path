@@ -6,6 +6,29 @@
 
 ... is both an outline of the path I'm following (checklist to follow - although the checklist itself is subject to change), and a place to record my progress.
 
-## What else?
+## My Progress
 
-Not sure yet. We'll see what happens.
+Note: Sections are roughly equivalent to the tiers P1xt's outlines. Courses/Books/Projects that are part of the "Get Job-Ready" path are in bold. Courses/Books/Projects that are ONLY part of the "Computer Science and Web Development" path are italicized and marked with an asterisk. Courses/Books/Projects that are ONLY part of the "Web Development with Computer Science Foundations" path are italicized and marked with a tilde.
+
+### Section 1
+
+| Course/Book/Project | Link | Completed |
+| ------------------- | ---- | --------- |
+| **YDKJS: Up & Going** | [link](https://github.com/getify/You-Dont-Know-JS) |
+| **YDKJS: Scope & Closures** | [link](https://github.com/getify/You-Dont-Know-JS) | |
+| **YDKJS: this & Object Prototypes** | [link](https://github.com/getify/You-Dont-Know-JS) |  |
+| Learn to Code HTML & CSS | [link](http://learn.shayhowe.com/html-css/) | |
+| Project: Portfolio from the frontend section of FCC | | |
+| **YDKJS: Types & Grammar** | [link](https://github.com/getify/You-Dont-Know-JS) | |
+| **YDKJS: Async & Performance** | [link](https://github.com/getify/You-Dont-Know-JS) | |
+| **YDKJS: ES6 & Beyond** | [link](https://github.com/getify/You-Dont-Know-JS) |  |
+| **CS50 (on edX)** | [link](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x) |  |
+| Learn to Code Advanced HTML & CSS | [link](http://learn.shayhowe.com/advanced-html-css/) | |
+| Clone [this](https://creativemarket.com/ikonome/686585-Material-Resume-Blue/screenshots/#screenshot2) online resume template | | |
+| Read "Project Specification Documents" | [link](http://www.pixelearth.net/pages/project-specification) | |
+| Effective Thinking Through Mathematics | [link](https://www.edx.org/course/effective-thinking-through-mathematics-utaustinx-ut-9-01x-0) | |
+| Setting Up ES6 | [link](https://leanpub.com/setting-up-es6/read) | |
+| **JavaScript Allongé, the "Six" Edition** | [link](https://leanpub.com/javascriptallongesix) | |
+| Getting Sassy with CSS | [link](http://www.sassshop.com/#/) | |
+| Project: Build online Towers of Hanoi solver | | |
+| ~ *Project: Build a CSS template inspired by one of [these](https://forum.freecodecamp.com/clicks/track?url=http%3A%2F%2Fwww.free-css.com%2Ffree-css-templates&post_id=118073&topic_id=64516)* | |
