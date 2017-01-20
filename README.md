@@ -15,7 +15,7 @@ Note: Sections are roughly equivalent to the tiers P1xt's outlines. Courses/Book
 | Course/Book/Project | Link | Completed |
 | ------------------- | ---- | --------- |
 | **YDKJS: Up & Going** | [link](https://github.com/getify/You-Dont-Know-JS) | 01/18/17 |
-| **YDKJS: Scope & Closures** | [link](https://github.com/getify/You-Dont-Know-JS) | |
+| **YDKJS: Scope & Closures** | [link](https://github.com/getify/You-Dont-Know-JS) | 01/20/17 |
 | **YDKJS: this & Object Prototypes** | [link](https://github.com/getify/You-Dont-Know-JS) |  |
 | Learn to Code HTML & CSS | [link](http://learn.shayhowe.com/html-css/) | |
 | Project: Portfolio from the frontend section of FCC | | |
@@ -38,4 +38,4 @@ Note: Sections are roughly equivalent to the tiers P1xt's outlines. Courses/Book
 | Course/Book/Project | Link | Completed |
 | ------------------- | ---- | --------- |
 | Codingame Classic Puzzles - Easy | [link](https://www.codingame.com/) | |
-|  |  |  |  
+|  |  |  |
