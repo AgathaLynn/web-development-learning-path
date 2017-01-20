@@ -32,3 +32,10 @@ Note: Sections are roughly equivalent to the tiers P1xt's outlines. Courses/Book
 | Getting Sassy with CSS | [link](http://www.sassshop.com/#/) | |
 | Project: Build online Towers of Hanoi solver | | |
 | ~ *Project: Build a CSS template inspired by one of [these](https://forum.freecodecamp.com/clicks/track?url=http%3A%2F%2Fwww.free-css.com%2Ffree-css-templates&post_id=118073&topic_id=64516)* | |
+
+### "Extras" - Other Courses/Resources/etc.
+
+| Course/Book/Project | Link | Completed |
+| ------------------- | ---- | --------- |
+| Codingame Classic Puzzles - Easy | [link](https://www.codingame.com/) | |
+|  |  |  |  
