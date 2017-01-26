@@ -37,5 +37,5 @@ Note: Sections are roughly equivalent to the tiers P1xt's outlines. Courses/Book
 
 | Course/Book/Project | Link | Completed |
 | ------------------- | ---- | --------- |
-| Codingame Classic Puzzles - Easy | [link](https://www.codingame.com/) | |
+| Codingame Classic Puzzles - Easy | [link](https://www.codingame.com/) | 01/26/17 |
 |  |  |  |
