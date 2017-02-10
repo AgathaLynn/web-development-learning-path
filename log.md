@@ -12,3 +12,13 @@ The CS50 assignment was fairly straightforward to implement - Manipulating *stri
 
 **Link(s) to work**:
 The idea for (and format of) this log is taken from the [100 Days Of Code](https://github.com/Kallaway/100-days-of-code/blob/master/log.md) challenge. Other than that, nothing today.
+
+## Thursday, 9 February 2017
+
+**Today's Progress**:
+* Worked through You-Dont-Know-JS Book 5, Chapter 1.
+* Solved "Scrabble" from CodinGame Classic Puzzles - Medium
+
+**Thoughts**:
+
+**Link(s) to work**:
