@@ -16,9 +16,13 @@ The idea for (and format of) this log is taken from the [100 Days Of Code](https
 ## Thursday, 9 February 2017
 
 **Today's Progress**:
-* Worked through You-Dont-Know-JS Book 5, Chapter 1.
+* Worked through You-Dont-Know-JS Book 5, Chapter 1
 * Solved "Scrabble" from CodinGame Classic Puzzles - Medium
+* Began watching lecture from CS50 Week 4 (first 55 minutes)
 
 **Thoughts**:
+The CodinGame puzzle took a lot longer than it should have, but I got a bit of practice working with objects, and spent a *long* time trying to find a bug in my solution: turns out that if you pass a string into match (e.g. `str.match('a')`), it converts the string `a` to a regular expression and only looks for the *first* match. If you want to find *all* the 'a's, you need to use the RegExp constructor with the 'g' flag. Silly syntax problem... but I guess I'll remember that one better going forward.   
+The part of the CS50 lecture that I watched had mainly to do with pointers... and explained some of (maybe all?) the asterisks I was getting so confused about during the last couple of homework assignments.
 
 **Link(s) to work**:
+None today.
