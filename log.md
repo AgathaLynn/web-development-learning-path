@@ -1,9 +1,21 @@
 # Progress Log
 
+## Saturday, 11 February 2017
+
+**Today's Progress**
+* Solved "Whodunit" from the CS50 Week 4 homework assignments
+* Watched CS50 Week 4 Shorts: Hexadecimal, Call Stack
+
+**Thoughts**:
+I also actually submitted pset0 for the CS50 course (they have the 2017 submission system set up now) - that isn't really a *coding* problem, though. More of an anxiety problem, I guess. I think I made the "Whodunit" problem a lot harder than it needed to be, but it was really interesting to actually get a peek at the details of *how* a computer actually stores images (specifically) and different types of files (more generally).
+
+**Link(s) to work**:
+Still none.
+
 ## Friday, 10 February 2017
 
 **Today's Progress**:
-* Finish watching lecture from CS50 Week 4
+* Finished watching lecture from CS50 Week 4
 * Worked thorugh You-Dont-Know-JS Book 5, Chapter 2
 * Solved "War" from CodinGame Classic Puzzles - Medium
 
