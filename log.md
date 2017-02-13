@@ -1,5 +1,17 @@
 # Progress Log
 
+## Sunday, 12 February 2017
+
+**Today's Progress**
+* Reviewed and submitted homework for CS50 Week 1
+* Watched CS50 Week 4 Shorts: Pointers, Dynamic Memory Allocation
+* Solved "Stock Exchange Losses" from CodinGame Classic Puzzles - Medium
+
+**Thoughts**: Didn't do a whole lot today. Pointers and dynamic memory allocation don't seem *hard*, per se, just a lot of syntax and steps to keep track of.
+
+**Link(s) to work**:
+None today.
+
 ## Saturday, 11 February 2017
 
 **Today's Progress**
