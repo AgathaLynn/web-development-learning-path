@@ -1,5 +1,18 @@
 # Progress Log
 
+## Monday, 13 February 2017
+
+**Today's Progress**
+* Watched CS50 Week 4 Shorts: Structures
+* Solved "Resize" (Less Comfortable Version) from the CS50 Week 4 homework assignments
+
+**Thoughts**:
+I've been trying to do the more difficult versions of the CS50 homework problems... but even the easier version of this one took me well over two hours. Maybe I'll go back and do the other one later... or maybe not. We'll see.
+
+**Link(s) to work**:
+None today.
+
+
 ## Sunday, 12 February 2017
 
 **Today's Progress**
