@@ -1,5 +1,16 @@
 # Progress Log
 
+## Tuesday, 14 February 2017
+
+**Today's Progress**
+* Mostly solved "Recover" from the CS50 Week 4 homework assignments
+
+**Thoughts**
+* Little bugs can take forever to figure out. Going away and coming back later can help.
+
+**Link(s) to work**:
+None today.
+
 ## Monday, 13 February 2017
 
 **Today's Progress**
