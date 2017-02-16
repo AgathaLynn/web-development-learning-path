@@ -1,5 +1,17 @@
 # Progress Log
 
+## Wednesday, 15 February 2017
+
+**Today's Progress**
+* Watched first 57 minutes of CS50 Week 5 Lecture
+* Began working on "Mayan Calculation" from CodinGame Classic Puzzles - Medium
+
+**Thoughts**:
+I am *so* tired today...
+
+**Link(s) to work**:
+None.
+
 ## Tuesday, 14 February 2017
 
 **Today's Progress**
