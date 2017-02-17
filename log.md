@@ -1,5 +1,18 @@
 # Progress Log
 
+## Thursday, 16 February 2017
+
+**Today's Progress**
+* Finished watching CS50 Week 5 Lecture
+* Completed lessons 1-3 of Shay Howe's "Learn to Code HTML & CSS" series
+
+**Thoughts**:
+The information in the HTML & CSS articles is largely review, but it's *good* review. It's helpful to see examples of how a multi-page website is structured - different directories for "assets" (stylesheets, images), different files for different pages, etc. And how parts of the html and css are re-used across different pages on the same website.
+
+**Link(s) to work**:
+[Folder for "Learn to Code..."]("/learn-to-code") (currently contains only the examples from the book, retyped by me). So nothing original.
+
+
 ## Wednesday, 15 February 2017
 
 **Today's Progress**
