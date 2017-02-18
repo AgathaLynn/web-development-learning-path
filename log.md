@@ -1,5 +1,20 @@
 # Progress Log
 
+## Friday, 17 February 2017
+
+**Today's Progress**
+* Solved "Mayan Calculation" from CodinGame Classic Puzzles - Medium
+* Completed lessons 4-6 of Shay Howe's "Learn to Code HTML & CSS" series
+
+**Thoughts**:
+The "Mayan Calculation" puzzles was already mostly solved on Wednesday. What I did today was basically just bug fixes and cleaning up the code a bit. The "Learn to Code HTML & CSS" series is really helpful, and I'm pretty sure it's one I'll be referring back to. I can't wait to finish the tutorial and try a few simple projects, just so I can cement some of this stuff in my brain.
+
+Also, the Chingu Cohorts start today, so that's exciting.
+
+**Link(s) to work"**:
+None today... except for the sample project copied from "Learn to Code HTML & CSS." Which isn't mine.
+
+
 ## Thursday, 16 February 2017
 
 **Today's Progress**
