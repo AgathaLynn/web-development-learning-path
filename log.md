@@ -1,5 +1,30 @@
 # Progress Log
 
+## Sunday, 19 February 2017
+
+**Today's Progress**
+* Completed lesson 9 of Shay Howe's "Learn to Code HTML & CSS" series
+* Watched CS50 Week 5 Shorts: Singly-Linked Lists, Doubly-Linked Lists
+
+**Thoughts**:
+Today's "Aha" moment (silly though it may be) was learning what iframes *are* and having at least a rudimentary understanding of how they work. Who knew that embedding a map into a website was so easy?!
+
+I also have an idea for an "okay, now you try it" to do once I've finished reading through Howe's articles - a mock website for a local bookstore. Should be fun...
+
+**Link(s) to work**:
+None today
+
+## Saturday, 18 February 2017
+
+**Today's Progress**
+* Completed lessons 7-8 of Shay Howe's "Learn to Code HTML & CSS" series
+
+**Thoughts**:
+Didn't do too much today...
+
+**Link(s) to work**:
+None
+
 ## Friday, 17 February 2017
 
 **Today's Progress**
@@ -11,7 +36,7 @@ The "Mayan Calculation" puzzles was already mostly solved on Wednesday. What I d
 
 Also, the Chingu Cohorts start today, so that's exciting.
 
-**Link(s) to work"**:
+**Link(s) to work**:
 None today... except for the sample project copied from "Learn to Code HTML & CSS." Which isn't mine.
 
 
