@@ -30,7 +30,7 @@
 
 * How to delete whole thing?
   - recursion: if reach null, stop
-  - else: delete rest, free curr 
+  - else: delete rest, free curr
 
 * How to delete single element?
   - messy...
@@ -51,3 +51,23 @@
   - edge cases (first, last nodes) handled separately
 
 * Linked lists: great (constant) insertion/deletion times, linear access
+
+
+## Short: Stacks
+
+* Last in, first out `struct`
+  - Can be implemented using arrays or linked lists
+  - two operations: push, pop
+
+## Short: Queues
+
+* First in, first out `struct`
+  - operations: enqueue, dequeue
+
+* Array implementation:
+  - insert next item at ("first" + "size") % capacity
+  - remove first: move first, decrease size, return value
+
+* Implemented as doubly-linked list (singly-linked possible too)
+  - to enqueue: allocate new node at END (tail)
+  - to dequeue: take off first...
