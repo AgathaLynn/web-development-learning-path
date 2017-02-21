@@ -1,5 +1,18 @@
 # Progress Log
 
+## Monday, 20 February 2017
+
+**Today's Progress**
+* Watched CS50 Week 5 Shorts: Stacks, Queues
+* Solved "Shadows of the Knight" from CodinGame Classic Puzzles - Medium
+* Completed lessons 10-11 of Shay Howe's "Learn to Code HTML & CSS" series
+
+**Thoughts**:
+I think this is the 3rd (or 4th?) time that I've tried to do a binary search algorithm... and it's getting to the point where it's coming pretty naturally. That's a good thing.
+
+**Link(s) to work**:
+Still none
+
 ## Sunday, 19 February 2017
 
 **Today's Progress**
