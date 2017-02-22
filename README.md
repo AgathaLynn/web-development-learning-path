@@ -17,7 +17,7 @@ Note: Sections are roughly equivalent to the tiers P1xt's outlines. Courses/Book
 | **YDKJS: Up & Going** | [link](https://github.com/getify/You-Dont-Know-JS) | 01/18/17 |
 | **YDKJS: Scope & Closures** | [link](https://github.com/getify/You-Dont-Know-JS) | 01/20/17 |
 | **YDKJS: this & Object Prototypes** | [link](https://github.com/getify/You-Dont-Know-JS) | 02/02/17 |
-| Learn to Code HTML & CSS | [link](http://learn.shayhowe.com/html-css/) | 02/21/2017 |
+| Learn to Code HTML & CSS | [link](http://learn.shayhowe.com/html-css/) | 02/21/17 |
 | Project: Portfolio from the frontend section of FCC | | |
 | **YDKJS: Types & Grammar** | [link](https://github.com/getify/You-Dont-Know-JS) | 02/06/17 |
 | **YDKJS: Async & Performance** | [link](https://github.com/getify/You-Dont-Know-JS) | |
