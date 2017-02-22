@@ -1,5 +1,18 @@
 # Progress Log
 
+## Tuesday, 21 February 2017
+
+**Today's Progress**
+* Finished Shay Howe's "Learn to Code HTML & CSS" series
+* Began working on personal project (fake website for local bookstore)
+
+**Thoughts**:
+The "fake website" project is fun, and a great way to practice the HTML and CSS stuff that I just finished reading. It's a fake website, but I (being the incredibly uncreative person that I am) have *real* names and contact info in it... so it's not going onto github. Oh, well.
+
+**Link(s) to work**:
+Not online, unfortunately. I was actually kind of looking forward to having something to link to...
+
+
 ## Monday, 20 February 2017
 
 **Today's Progress**
