@@ -1,5 +1,15 @@
 # Progress Log
 
+## Wednesday, 22 February 2017
+
+**Today's Progress**
+* Worked on bookstore website
+
+**Thoughts**: CSS is a time suck. You'd never have guessed that I spent as much time as I did working on the thing. Also... I still think that iframes are kind of cool.
+
+**Link(s) to work**:
+Not online... still.
+
 ## Tuesday, 21 February 2017
 
 **Today's Progress**
