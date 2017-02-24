@@ -71,3 +71,44 @@
 * Implemented as doubly-linked list (singly-linked possible too)
   - to enqueue: allocate new node at END (tail)
   - to dequeue: take off first...
+
+## Short: Hash Tables
+
+  * Want pros of array & pros of linked list
+    - insertion/deletion/lookup all tend toward Theta(1) (theta - average)
+    - con: sorting doesn't work so great
+
+  * combines two things:
+    - hash function, returns hash code
+    - array that stores data at location of hash code
+
+  * collisions - how to store *both* data in array
+    - method: linear probing - put data in next vacant slot
+      - clustering problem: one collision makes more likely
+      - space problem: we run out of room
+    - method: chaining - array element is pointer to head of linked list
+      - fixes clustering and space problems
+      - insertion is great, lookup involves searching a (hopefully) *small* list
+
+## Short: Tries
+
+  * Tries combine arrays and pointers
+    - use data as a "path" to find out whether it exists
+    - two pieces of data guaranteed to have unique roadmaps
+    - tradeoff: lots of MEMORY
+
+  * To insert element, build path (example)
+    - ```
+    typedef struct _trie
+    {
+      char university[20];
+      struct _trie* paths[10];
+    }
+    trie
+    ```
+    - root node probably globally defined, never modified/touched again
+      - use COPY for traversal
+      - consists of string and array of 10 null pointers
+    - to insert/search:
+      - travel down path, making new nodes as necessary
+      - when you reach end, assign/check value
