@@ -1,5 +1,19 @@
 # Progress Log
 
+## Thursday, 23 February 2017
+
+**Today's Progress**
+* Worked on bookstore website
+* Solved "Don't Panic - Episode 1" from CodinGame Classic Puzzles - Medium
+* Solved "Telephone Numbers" from CodinGame Classic Puzzles - Medium
+* Watched CS50 Week 5 Shorts: Hash Tables, Tries
+
+**Thoughts**: Tries are kind of weird, and kind of neat. Both of these CodinGame puzzles were ones that seemed tricky on the outset, but the difficulty was really just in getting a good understanding of the problem - the code was actually pretty simple for both. Relatively speaking.
+The bookstore website is coming along, and I'm getting more comfortable with git as well (today I created, merged, and deleted branches).
+
+**Link(s) to work**:
+Still none - hopefully that will be changing this next week.
+
 ## Wednesday, 22 February 2017
 
 **Today's Progress**
