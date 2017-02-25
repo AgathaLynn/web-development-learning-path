@@ -1,5 +1,19 @@
 # Progress Log
 
+## Friday, 24 February 2017
+
+**Today's Progress**
+* Solved "Skynet Revolution: Episode 1" from CodinGame Classic Puzzles - Medium
+* Solved "Conway Sequence" from CodinGame Classic Puzzles - Medium
+* Began CS50 pset5
+
+**Thoughts**: This CS50 problem set is going to take a while, I think... I probably need to plan on spending a few good long blocks of time on it. Otherwise, didn't do a whole lot today. I had intended to do a pair programming session this evening, but that didn't pan out. Hopefully another time...
+
+
+**Link(s) to work**:
+Still none.
+
+
 ## Thursday, 23 February 2017
 
 **Today's Progress**
