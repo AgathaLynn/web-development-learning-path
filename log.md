@@ -1,5 +1,26 @@
 # Progress Log
 
+## Sunday, 26 February
+
+**Today's Progress**
+* Worked on bookstore website
+* Solved "The Gift" from CodinGame Classic Puzzles - Medium
+
+**Thoughts**: The bookstore website is coming along - today I got the "News" page done. We're kind of to the point where what's left is a bunch of annoying little tasks. That, and I'm kind of realizing there are a few things that maybe won't work exactly the way I wanted them to. Which is really just part of the learning process, and the reason I'm doing so many of these projects to begin with, right?
+
+**Link(s) to work**:
+Still nothing. Soon...
+
+## Saturday, 25 February
+
+**Today's Progress**
+* Reread chapters 1-2 of YDKJS: Async & Performance
+
+**Thoughts**: Wasn't able to code today... but the good news is that the YDKJS chapters made a lot more sense the second time I read through them.
+
+**Link(s) to work**:
+No work => no links.
+
 ## Friday, 24 February 2017
 
 **Today's Progress**
