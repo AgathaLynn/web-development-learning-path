@@ -1,5 +1,18 @@
 # Progress Log
 
+## Monday, 27 February
+
+**Today's Progress**
+* Installed Nodejs on computer and updated npm
+* Did sections 1-15 of the "Getting Started" section of the npm Documentation
+* Worked on bookstore website
+* Met with BUILD-to-LEARN team in Chingu cohort
+
+**Thoughts**: Installing npm was tricky, actually, but I think I have it working for now. As long as I don't have to do any updates or anything. So now I have another tool that I can play with.
+
+**Link(s) to work**:
+Not quite yet...
+
 ## Sunday, 26 February
 
 **Today's Progress**
