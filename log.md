@@ -1,5 +1,27 @@
 # Progress Log
 
+## Wednesday, 1 March
+
+**Today's Progress**
+* Worked on "Bender 1" from CodinGame Classic Puzzles - Medium
+
+**Thoughts**:
+I worked for a while today, but not as much as I would have liked. Hopefully I'll be able to do more tomorrow.
+
+**Link(s) to work**:
+Nada.
+
+## Tuesday, 28 February
+
+**Today's Progress**
+* Did a little bit of reading on graphs... but not much
+
+**Thoughts**:
+Didn't really do anything today
+
+**Link(s) to work**:
+None
+
 ## Monday, 27 February
 
 **Today's Progress**
