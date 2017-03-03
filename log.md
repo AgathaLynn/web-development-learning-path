@@ -1,5 +1,17 @@
 # Progress Log
 
+## Thursday, 2 March
+
+**Today's Progress**
+* Worked on "Bender 1" from CodinGame Classic Puzzles - Medium
+* Met with Chingu group
+
+**Thoughts**:
+That Bender puzzle is a doozy... and the chingu group project is teaching me a lot... even though I haven't started actually coding yet and find the whole thing pretty overwhelming.
+
+**Link(s) to work**:
+Not yet... but soon, very very soon.
+
 ## Wednesday, 1 March
 
 **Today's Progress**
