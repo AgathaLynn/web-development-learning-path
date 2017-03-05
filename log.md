@@ -1,5 +1,36 @@
 # Progress Log
 
+##Sunday, 5 March
+
+**Today's Progress**
+
+**Thoughts**:
+
+**Link(s) to work**:
+
+## Saturday, 4 March
+
+**Today's Progress**
+
+None
+
+**Thoughts**:
+N/A
+
+**Link(s) to work**:
+N/A
+
+## Friday, 3 March
+
+**Today's Progress**
+* Worked on "Bender 1" from CodinGame Classic Puzzles - Medium
+
+**Thoughts**:
+I'm starting to get frustrated with this... I think I might put it away for a while and come back later
+
+**Link(s) to work**:
+None
+
 ## Thursday, 2 March
 
 **Today's Progress**
