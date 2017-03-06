@@ -3,10 +3,13 @@
 ##Sunday, 5 March
 
 **Today's Progress**
+* Worked on FCC portfolio project
 
 **Thoughts**:
+The HTML stuff is getting easier, so there's that.
 
 **Link(s) to work**:
+New repo [here](https://github.com/AgathaLynn/FCC-frontend-projects) (not much to see yet, though).
 
 ## Saturday, 4 March
 
