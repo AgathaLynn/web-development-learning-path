@@ -1,6 +1,28 @@
 # Progress Log
 
-##Sunday, 5 March
+## Tuesday, 7 March
+
+**Today's Progress**
+* Worked on FCC portfolio project
+
+**Thoughts**:
+Hoping to finish this tomorrow or Thursday
+
+**Link(s) to work**:
+Project repository: https://github.com/AgathaLynn/FCC-frontend-projects
+
+## Monday, 6 March
+
+**Today's Progress**
+
+
+**Thoughts**:
+N/A
+
+**Link(s) to work**:
+N/A
+
+## Sunday, 5 March
 
 **Today's Progress**
 * Worked on FCC portfolio project
