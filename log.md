@@ -1,5 +1,27 @@
 # Progress Log
 
+## Thursday, 9 March
+
+**Today's Progress**
+None Today
+
+**Thoughts**:
+N/A
+
+**Link(s) to work**:
+N/A
+
+## Wednesday, 8 March
+
+**Today's Progress**
+* Met with Chingu momentum team
+
+**Thoughts**:
+I'm a bit confused about how to separate the parts of a website so that different people can work on them independently. I suspect this project will be a case study in how NOT to do things... but it will be a great learning experience.
+
+**Link(s) to work**:
+Project repository: https://github.com/Simba-Paws
+
 ## Tuesday, 7 March
 
 **Today's Progress**
