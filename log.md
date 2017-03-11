@@ -1,5 +1,15 @@
 # Progress Log
 
+## Saturday, 11 March
+
+**Today's Progress**
+* Finished and deployed FCC portfolio project
+
+**Thoughts**:
+
+**Link(s) to work**:
+Portfolio Project: https://agathalynn.github.io/FCC-frontend-projects/index.html
+
 ## Friday, 10 March
 
 **Today's Progress**
