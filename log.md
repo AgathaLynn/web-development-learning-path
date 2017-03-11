@@ -1,5 +1,20 @@
 # Progress Log
 
+## Friday, 10 March
+
+**Today's Progress**
+* Worked on FCC portfolio website
+* Watched two LearnCode.acadamy videos on github workflow
+* Pair programming - started to-do list
+
+**Thoughts**:
+Pair programming was fun... and I can see how it will be a helpful learning experience.
+
+**Link(s) to work**:
+The FCC portfolio project is on a local branch, but the repo is here: https://github.com/AgathaLynn/FCC-frontend-projects
+
+The pair programming repo is here: https://github.com/Simba-Paws/Simba-Paws-Momentum
+
 ## Thursday, 9 March
 
 **Today's Progress**
