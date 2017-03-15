@@ -1,5 +1,49 @@
 # Progress Log
 
+## Wednesday, 15 March
+
+**Today's Progress**
+
+**Thoughts**:
+
+**Link(s) to work**:
+
+## Tuesday, 14 March
+
+**Today's Progress**
+* Reviewed how local storage works
+* Met with Ty to work on Chingu project
+
+**Thoughts**:
+None really... except that learning together is teaching me a *different* set of skills than I was gaining working on my own
+
+**Link(s) to work**:
+Momentum project repo: https://github.com/Simba-Paws/Simba-Paws-Momentum
+
+## Monday, 13 March
+
+**Today's Progress**
+
+Nada
+
+**Thoughts**:
+N/A
+
+**Link(s) to work**:
+N/A
+
+## Sunday, 12 March
+
+**Today's Progress**
+
+Nada
+
+**Thoughts**:
+N/A
+
+**Link(s) to work**:
+N/A
+
 ## Saturday, 11 March
 
 **Today's Progress**
