@@ -1,10 +1,24 @@
 # Progress Log
 
+## Thursday, 16 March
+
+**Today's Progress**
+* Worked on CS50 pset 5
+* Watched first 56 minutes of CS50 Week 6 lecture
+
+**Thoughts**:
+Pset 5 is kind of tricky, and I'm having trouble making a productive start. I'll have a block of time I can set aside tomorrow to work on it, so hopefully I'll have better luck then.
+
+**Link(s) to work**:
+None 
+
 ## Wednesday, 15 March
 
 **Today's Progress**
+* Met with momentum group
 
 **Thoughts**:
+We're getting better at this.
 
 **Link(s) to work**:
 
