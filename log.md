@@ -1,5 +1,25 @@
 # Progress Log
 
+## Saturday, 18 March
+
+**Today's Progress**
+* Worked on momentum project
+
+**Thoughts**:
+
+**Link(s) to work**:
+
+## Friday, 17 March
+
+**Today's Progress**
+* Watched about 10 minutes of CS50 video.
+
+**Thoughts**:
+Yeah.
+
+**Link(s) to work**:
+Nada
+
 ## Thursday, 16 March
 
 **Today's Progress**
@@ -10,7 +30,7 @@
 Pset 5 is kind of tricky, and I'm having trouble making a productive start. I'll have a block of time I can set aside tomorrow to work on it, so hopefully I'll have better luck then.
 
 **Link(s) to work**:
-None 
+None
 
 ## Wednesday, 15 March
 
