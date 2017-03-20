@@ -1,5 +1,19 @@
 # Progress Log
 
+## Sunday, 19 March
+
+**Today's Progress**
+* Worked on momentum project (pairing with L)
+* Finished watching CS50 Week 6 lecture
+* Worked on CS50 pset5
+
+**Thoughts**: I implemented the load and unload functions for pset5... but I did so using a singly linked list, which is *NOT* going to do well speed-wise. I was having enough trouble with the problem set, though. Doing it this way made sense for now - I was at least able to get things working, basically. (Well... partially working, anyway.) And I can always go back and re-implement the thing using a different data structure. I probably *should* to back... but we'll see how things go.
+
+I worked with L on the momentum project today, and chrome really wasn't liking our trying to make an api call to that one quote-generator. I think the problem has to do with some sort of security requirement implemented by chrome extensions (it worked fine in L's quote machine, and if I ran the "extension" from a file folder on my computer). But it frustrates me that I haven't been able to figure out what exactly the issue was, or how to resolve it. Maybe L will have better luck.
+
+**Link(s) to work**:
+Momentum project repo: https://github.com/Simba-Paws/Simba-Paws-Momentum
+
 ## Saturday, 18 March
 
 **Today's Progress**
