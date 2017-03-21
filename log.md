@@ -1,5 +1,23 @@
 # Progress Log
 
+## Monday, 20 March
+
+**Today's Progress**
+* Finished CS50 pset 5 (using linked list)
+* Watched CS50 Week 6 shorts: Internet Primer, IP, TCP, HTTP
+* Created simple "writer's block" website to practice ajax requests (sans jQuery)
+* Worked on momentum project todo list (pairing with T)
+
+**Thoughts**: I'm not entirely happy with my solution to pset5 - a linked list is *NOT* the best data structure for the project - but I kind of needed to have that done, because I've been stuck on it for way too long. The spell checker is done, it works, and there are no memory leaks. It's just slow. And so we're moving on.
+
+Today was a good day, programming-wise. Pairing on the momentum project went well - the todo list is functional, so that's cool. And I also made a simple (very, very simple) website to practice making API requests without using JQuery. I wanted to try using promises... but I realized I needed to take a step backward and do this first. So today was a lot of baby steps... but at least they were baby steps in the right direction!
+
+To-dos: Tomorrow (or soon) I'd like to see about getting my practice project up online (maybe try out surge.sh?). And then keep chugging away on the other works-in-progress: CS50, momentum project, YDKJS. 
+
+**Link(s) to work**:
+Writer's block repo: https://github.com/AgathaLynn/web-development-learning-path/tree/master/You-Dont-Know-JS/writers-block
+Momentum project repo: https://github.com/Simba-Paws/Simba-Paws-Momentum
+
 ## Sunday, 19 March
 
 **Today's Progress**
