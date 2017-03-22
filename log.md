@@ -5,9 +5,9 @@
 **Today's Progress**
 * Watched CS50 Week 7 lecture
 * Deployed yesterday's Writer's Block project using surge.sh
-* Met with momentum group 
+* Met with momentum group
 
-**Thoughts**:
+**Thoughts**: Deploying the website was a lot easier than I thought it would be. And promises are a lot *harder* than I thought they would be. I'm actually not sure that it's promises that are the problem. It might be that I don't have a good use case for them. I had a couple of different ideas about how to use them... but they would require writing code to turn an xmlhhtprequest into a promise and/or writing code to turn an event listener into a promise. Which makes me wonder if maybe I'm not understanding when/how they're actually supposed to be used.
 
 **Link(s) to work**:
 Writer's Block website: http://writers-block.surge.sh
@@ -28,6 +28,7 @@ To-dos: Tomorrow (or soon) I'd like to see about getting my practice project up 
 
 **Link(s) to work**:
 Writer's block repo: https://github.com/AgathaLynn/web-development-learning-path/tree/master/You-Dont-Know-JS/writers-block
+
 Momentum project repo: https://github.com/Simba-Paws/Simba-Paws-Momentum
 
 ## Sunday, 19 March
