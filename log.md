@@ -1,5 +1,17 @@
 # Progress Log
 
+## Tuesday, 21 March
+
+**Today's Progress**
+* Watched CS50 Week 7 lecture
+* Deployed yesterday's Writer's Block project using surge.sh
+* Met with momentum group 
+
+**Thoughts**:
+
+**Link(s) to work**:
+Writer's Block website: http://writers-block.surge.sh
+
 ## Monday, 20 March
 
 **Today's Progress**
@@ -12,7 +24,7 @@
 
 Today was a good day, programming-wise. Pairing on the momentum project went well - the todo list is functional, so that's cool. And I also made a simple (very, very simple) website to practice making API requests without using JQuery. I wanted to try using promises... but I realized I needed to take a step backward and do this first. So today was a lot of baby steps... but at least they were baby steps in the right direction!
 
-To-dos: Tomorrow (or soon) I'd like to see about getting my practice project up online (maybe try out surge.sh?). And then keep chugging away on the other works-in-progress: CS50, momentum project, YDKJS. 
+To-dos: Tomorrow (or soon) I'd like to see about getting my practice project up online (maybe try out surge.sh?). And then keep chugging away on the other works-in-progress: CS50, momentum project, YDKJS.
 
 **Link(s) to work**:
 Writer's block repo: https://github.com/AgathaLynn/web-development-learning-path/tree/master/You-Dont-Know-JS/writers-block
