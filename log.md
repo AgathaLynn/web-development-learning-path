@@ -1,5 +1,16 @@
 # Progress Log
 
+## Wednesday, 22 March
+
+**Today's Progress**
+* Watched CS50 Week 8 lecture
+* Started CS50 pset6 (implemented mario.py, credit.py, vigenere.py)
+
+**Thoughts**: Chugging along. Slowly, but still chugging.
+
+**Link(s) to work**:
+None today
+
 ## Tuesday, 21 March
 
 **Today's Progress**
