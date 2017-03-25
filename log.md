@@ -1,5 +1,29 @@
 # Progress Log
 
+##Friday, 24 March
+
+**Today's Progress**:
+* Finished CS50 pset6
+* Watched CS50 Week 9 lecture
+* Pair programming (momentum project with T)
+
+**Thoughts**:
+I think I *might* be beginning to understand/appreciate the motivation behind MongoDB and other no-sql databases... *maybe*. Not because there's anything wrong with SQL, but more because the lecture talked about ways to kind of "hide" SQL so that you could interact with it like with an object, and it seems like Mongo might *kind of* be taking the "hiding" one step further. Or I might be completely wrong. It's just a sort of question/impression.
+
+**Link(s) to work**:
+Momentum project repo: https://github.com/Simba-Paws/Simba-Paws-Momentum
+
+## Thursday, 23 March
+
+**Today's Progress**
+* Worked on CS50 pset6
+
+**Thoughts**:
+I didn't do too much today, and got too hung up on the whole setting up a twitter account thing.
+
+**Link(s) to work**:
+None
+
 ## Wednesday, 22 March
 
 **Today's Progress**
