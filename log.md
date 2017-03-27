@@ -1,11 +1,25 @@
 # Progress Log
 
-##Friday, 24 March
+## Saturday, 25 March
 
-**Today's Progress**:
+**Today's Progress**
+* Worked on refactoring todos (momentum project) & created pull request
+* Started working on CSS
+* Pair programming on momentum project (with L)
+
+**Thoughts**:
+I kind of like refactoring. And programming. But Javascript is more fun that HTML and CSS... which makes sense, because Javascript is *programming*, and CSS and HTML kind of aren't. Or something.
+
+**Link(s) to work**:
+Momentum project repo: https://github.com/Simba-Paws/Simba-Paws-Momentum
+
+## Friday, 24 March
+
+**Today's Progress**
 * Finished CS50 pset6
 * Watched CS50 Week 9 lecture
 * Pair programming (momentum project with T)
+* Worked on refactoring todos (momentum project)
 
 **Thoughts**:
 I think I *might* be beginning to understand/appreciate the motivation behind MongoDB and other no-sql databases... *maybe*. Not because there's anything wrong with SQL, but more because the lecture talked about ways to kind of "hide" SQL so that you could interact with it like with an object, and it seems like Mongo might *kind of* be taking the "hiding" one step further. Or I might be completely wrong. It's just a sort of question/impression.
