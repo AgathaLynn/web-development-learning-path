@@ -1,14 +1,27 @@
 # Progress Log
 
+## Sunday, 26 March
+
+**Today's Progress**
+* Worked on CSS for momentum project
+* Pair programming on momentum project (with L)
+
+**Thoughts**:
+I like Javascript better than HTML and CSS. Which makes sense, I guess: Javascript is *programming*, and HTML and CSS kind of aren't. Also, technology is kind of frustrating at times.
+
+
+**Link(s) to work**:
+Momentum project repo: https://github.com/Simba-Paws/Simba-Paws-Momentum
+
 ## Saturday, 25 March
 
 **Today's Progress**
 * Worked on refactoring todos (momentum project) & created pull request
 * Started working on CSS
-* Pair programming on momentum project (with L)
+
 
 **Thoughts**:
-I kind of like refactoring. And programming. But Javascript is more fun that HTML and CSS... which makes sense, because Javascript is *programming*, and CSS and HTML kind of aren't. Or something.
+I kind of like refactoring.
 
 **Link(s) to work**:
 Momentum project repo: https://github.com/Simba-Paws/Simba-Paws-Momentum
