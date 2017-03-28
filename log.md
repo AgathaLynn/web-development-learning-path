@@ -1,10 +1,19 @@
 # Progress Log
 
+## Tuesday, 28 March
 
+**Today's Progress**
+* Began working on YDKJS Async & Performance Chapter 4 (up to [iterating generators asynchronously](https://github.com/getify/You-Dont-Know-JS/blob/master/async%20%26%20performance/ch4.md#iterating-generators-asynchronously))
+
+**Thoughts**:
+
+
+**Link(s) to work**:
+Code snippets to help me understand reading: [here](https://github.com/AgathaLynn/web-development-learning-path/tree/master/You-Dont-Know-JS/practice)
 
 ## Monday, 27 March
 
-**Today's Progress**:
+**Today's Progress**
 * Minor tweaks to momentum code
 
 **Thoughts**:
