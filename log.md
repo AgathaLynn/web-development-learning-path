@@ -4,9 +4,12 @@
 
 **Today's Progress**
 * Began working on YDKJS Async & Performance Chapter 4 (up to [iterating generators asynchronously](https://github.com/getify/You-Dont-Know-JS/blob/master/async%20%26%20performance/ch4.md#iterating-generators-asynchronously))
+* Mtg with momentum group
 
 **Thoughts**:
+Case sensitivity matters: I accidentally messed up one of my git "pushes" (fortunately just this log!) to github, because I accidentally typed a letter lowercase that was supposed to be uppercase. It looked right on my computer... but it wasn't right in github. I wonder if there's some sort of tool that would catch those errors and ask me if I'm *SURE*... I can't be the first person to accidentally type a lowercase letter instead of an uppercase one, and I could have ended up with a much bigger mess than I did.
 
+Also... I actually used Node! I installed it a while back, and never did anything with it. And then today I used it to run programs. I made some simple programs (for getting the fibonacci sequence) to help me understand the reading for YDKJS... and I was able to run them from actual files on my own computer, without having to mess with the browser console. Neat!
 
 **Link(s) to work**:
 Code snippets to help me understand reading: [here](https://github.com/AgathaLynn/web-development-learning-path/tree/master/You-Dont-Know-JS/practice)
