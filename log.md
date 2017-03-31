@@ -1,5 +1,27 @@
 # Progress Log
 
+## Thursday, 30 March
+
+**Today's Progress**
+* Worked through next section of YDKJS Async and Performance Chapter 4 (up to [Promise Concurrency in Generators](https://github.com/getify/You-Dont-Know-JS/blob/master/async%20%26%20performance/ch4.md#promise-concurrency-in-generators))
+
+**Thoughts**:
+Even when you don't think that you need to play with the example code in the reading... it's still not a bad idea. I *thought* I understood how one code snippet in the reading was working, and ended up spending over half an hour getting my "easy" sample to run. Yeah. I *think* I understand it now. But I'm glad I took the time to mess around with the code, before I tried to make it work on an actual project!
+
+**Link(s) to work**:
+Code snippets to help me understand reading: [here](https://github.com/AgathaLynn/web-development-learning-path/blob/master/You-Dont-Know-JS/practice/async-chapter4-errors.js)
+
+## Wednesday, 29 March
+
+**Today's Progress**
+N/A
+
+**Thoughts**:
+Nada
+
+**Link(s) to work**:
+None today
+
 ## Tuesday, 28 March
 
 **Today's Progress**
