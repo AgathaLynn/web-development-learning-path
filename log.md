@@ -1,5 +1,26 @@
 # Progress Log
 
+## Saturday, 1 April
+
+**Today's Progress**
+* Finished YDKJS Async and Performance Chapter 4
+
+**Thoughts**:
+
+**Link(s) to work**:
+Code snippets to help me understand reading: [here](https://github.com/AgathaLynn/web-development-learning-path/blob/master/You-Dont-Know-JS/practice/async-ch4-generatordelegation.js)
+
+## Friday, 31 March
+
+**Today's Progress**
+* Worked on momentum project - looked into how to implement loading page
+
+**Thoughts**:
+I actually spent a fair bit of time working today, but I didn't really *accomplish* anything. I'm running into snags (that's good - means I'm learning) that I'm not sure how to resolve. I'd like to implement a loading page... but I'm having trouble figuring out how to signal to my code that everything is done "loading", so that the loading symbol can go away and the page can be revealed.
+
+**Link(s) to work**:
+Nothing new to speak of
+
 ## Thursday, 30 March
 
 **Today's Progress**
