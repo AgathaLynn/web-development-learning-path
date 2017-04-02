@@ -4,8 +4,10 @@
 
 **Today's Progress**
 * Finished YDKJS Async and Performance Chapter 4
+* Read YDKJS Async and Performance Chapters 5 & 6
 
 **Thoughts**:
+This YDKJS book was trickier... and I still don't feel like I have a fantastic understanding of promises (either their use or their use *case*). I'm going to go ahead and move on for now... but I also thing that at some point I'll probably want to come back to chapter 3, at some point.
 
 **Link(s) to work**:
 Code snippets to help me understand reading: [here](https://github.com/AgathaLynn/web-development-learning-path/blob/master/You-Dont-Know-JS/practice/async-ch4-generatordelegation.js)
