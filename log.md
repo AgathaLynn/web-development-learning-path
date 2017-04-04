@@ -1,5 +1,35 @@
 # Progress Log
 
+## Tuesday, 4 April
+
+**Today's Progress**
+* Read through YDKJS Async and Performance Appendix A
+* Played around with the Asynquence library
+
+**Thoughts**:
+
+**Link(s) to work**:
+Simple code example using the Asynquence library: [here]()
+
+
+## Monday, 3 April
+
+**Today's Progress**
+
+None: See yesterday's note
+
+## Sunday, 2 April
+
+**Today's Progress**
+None: sick
+
+**Thoughts**:
+I'll be better on Wednesday? I hope?
+
+**Link(s) to work**:
+Nope.
+
+
 ## Saturday, 1 April
 
 **Today's Progress**
