@@ -1,15 +1,36 @@
 # Progress Log
 
+## Wednesday, 5 April
+
+**Today's Progress**
+* Began working on CS50 pset7 (implemented register, quote, buy)
+* Worked on momentum project (fixed positioning of quote div)
+* Read YDKJS ES6 chapters: Forward, Chapter 1
+* Started YDKJS ES6 chapter 2: up to ["Destructuring"](https://github.com/getify/You-Dont-Know-JS/blob/master/es6%20%26%20beyond/ch2.md#destructuring)
+
+
+**Thoughts**:
+I'm feeling a little bit in over my head today. Actually - alternating between feeling like I'm learning a lot and feeling like I'll never learn enough. Ah, well. I guess I just keep chugging along
+
+**Link(s) to work**:
+Simple code examples to help me understand concepts from reading: [let and block scoping](https://github.com/AgathaLynn/web-development-learning-path/blob/master/You-Dont-Know-JS/practice/es6-ch2-let.js) & [spread operator](https://github.com/AgathaLynn/web-development-learning-path/blob/master/You-Dont-Know-JS/practice/es6-ch2-spread.js)
+
+Momentum project: https://github.com/Simba-Paws/Simba-Paws-Momentum
+
 ## Tuesday, 4 April
 
 **Today's Progress**
-* Read through YDKJS Async and Performance Appendix A
-* Played around with the Asynquence library
+* Read through YDKJS Async and Performance Appendix A, played with Asynquence library
+* Watched CS50 Live S3E1 (SHAttered) - about how SHA-1 has been broken
+* Met with T and L to discuss momentum progress
 
 **Thoughts**:
+I'm really shaky on the whole promises thing. My thought right now - because I'm starting to get annoyed at my lack of progress - is to go ahead and keep moving forward. I'm skipping Appendix B (there's no point in doing that until I understand promises better), and moving on. At some point soon I'll do a project that actually uses promises (not today, I can't start something new right now)... and I'll revist things then.
+
+Still got a fair bit out of Appendix A, though. If nothing else, I learned how to install and use a module on my computer using npm.
 
 **Link(s) to work**:
-Simple code example using the Asynquence library: [here]()
+Simple code example using the Asynquence library: [here](https://github.com/AgathaLynn/web-development-learning-path/blob/master/You-Dont-Know-JS/practice/asynquence1.js)
 
 
 ## Monday, 3 April
