@@ -1,5 +1,15 @@
 # Progress Log
 
+## Thursday, 6 April
+
+**Today's progress**
+* Worked on YDKJS ES6 Chapter 2 (Destructuring)
+
+**Thoughts**:
+
+**Link(s) to work**:
+Code examples for destructuring [here](https://github.com/AgathaLynn/web-development-learning-path/blob/master/You-Dont-Know-JS/practice/es6-ch2-destructuring.js)
+
 ## Wednesday, 5 April
 
 **Today's Progress**
