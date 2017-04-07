@@ -1,14 +1,23 @@
 # Progress Log
 
-## Thursday, 6 April
+## Friday, 7 April
 
-**Today's progress**
-* Worked on YDKJS ES6 Chapter 2 (Destructuring)
+**Today's Progress**
 
 **Thoughts**:
 
 **Link(s) to work**:
-Code examples for destructuring [here](https://github.com/AgathaLynn/web-development-learning-path/blob/master/You-Dont-Know-JS/practice/es6-ch2-destructuring.js)
+
+## Thursday, 6 April
+
+**Today's Progress**
+* Worked on YDKJS ES6 Chapter 2 (Destructuring, Object Literal Extensions)
+
+**Thoughts**:
+Slow going - I actually worked for quite a long time today... but I'm still feeling like it's not *enough*. Ah, well. Destructuring is kind of neat. I also like the "super" feature. I've been running into cases where I *wished* I could go up the prototype chain and call a "parent" function in the "child" function that overwrites it... and now I can. At least in certain circumstances if conditions are favorable.
+
+**Link(s) to work**:
+Code examples for destructuring [here](https://github.com/AgathaLynn/web-development-learning-path/blob/master/You-Dont-Know-JS/practice/es6-ch2-destructuring.js), and example for object literal extensions (super) [here](https://github.com/AgathaLynn/web-development-learning-path/blob/master/You-Dont-Know-JS/practice/es6-ch2-object.js)
 
 ## Wednesday, 5 April
 
