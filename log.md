@@ -3,10 +3,15 @@
 ## Friday, 7 April
 
 **Today's Progress**
+* Wrote JavaScript to "fix" GitHub's responsive layout so that I can read README files on a split screen
+* Finished working through YDKJS ES6 Chapter 2
 
-**Thoughts**:
+**Thoughts**: I kind of got side-tracked today... but I made something that I'm actually using, which is kind of neat.
 
 **Link(s) to work**:
+JavaScript file with code to change GitHub's layout: [here](https://github.com/AgathaLynn/web-development-learning-path/blob/master/code-snippets/github-readme-hack.js)
+
+Code examples to help me understand YDKJS reading: [here](https://github.com/AgathaLynn/web-development-learning-path/blob/master/You-Dont-Know-JS/practice/es6-ch2-template.js)
 
 ## Thursday, 6 April
 
