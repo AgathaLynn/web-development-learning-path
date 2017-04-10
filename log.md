@@ -1,5 +1,29 @@
 # Progress Log
 
+## Sunday, 9 April
+
+**Today's Progress**
+* Pair programming with L (momentum clone)
+* Worked through YDKJS ES6 Chapter 3 Iterators section
+
+**Thoughts**: I had fun today. Fixed a bug (it turns out that getting data from local storage is async - which I *should* have realized, had I actually thought about it...). I've still got a ways to go before I'll have real solid knowledge of the YDKJS material, but I'm definitely getting better.
+
+**Link(s) to work**:
+Project repo [here](https://github.com/Simba-Paws/Simba-Paws-Momentum)
+
+Code to understand YDKJS reading: [iterators](https://github.com/AgathaLynn/web-development-learning-path/blob/master/You-Dont-Know-JS/practice/es6-ch3-iterators.js)
+
+## Saturday, 8 April
+
+**Today's Progress**
+Nada
+
+**Thoughts**:
+N/A
+
+**Link(s) to work**:
+N/A
+
 ## Friday, 7 April
 
 **Today's Progress**
