@@ -1,5 +1,38 @@
 # Progress Log
 
+## Wednesday, 12 April
+
+**Today's Progress**
+* Finished working through YDKJS ES6 Chapter 3
+
+**Thoughts**:
+A lot of the content of the YDKJS ES6 book is review -- which I badly needed. I'm starting to feel like things are dragging and I'm not making much progress. It might help to devote a day to just *finishing* some of the stuff I started, so that I can move forward.
+
+**Link(s) to work**:
+Code to understand YDKJS reading: [classes](https://github.com/AgathaLynn/web-development-learning-path/blob/master/You-Dont-Know-JS/practice/es6-ch3-classes.js)
+
+## Tuesday, 11 April
+
+**Today's Progress**
+* Read through YDKJS ES6 Chapter 3 Modules section
+
+**Thoughts**:
+I'm unsure of how or where to actually play around with Javascript modules - they don't have browser support (yet), and I can't use them in Node.
+
+**Link(s) to work**:
+None today
+
+## Monday, 10 April
+
+**Today's Progress**
+* Pair programming with L (momentum clone)
+
+**Thoughts**:
+Getting close to finished with this one.
+
+**Link(s) to work**:
+Project repo [here](https://github.com/Simba-Paws/Simba-Paws-Momentum)
+
 ## Sunday, 9 April
 
 **Today's Progress**
