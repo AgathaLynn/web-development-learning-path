@@ -3,10 +3,14 @@
 ## Thursday, 13 April
 
 **Today's Progress**
+* Finished working through YDKJS ES6 Chapter 4
+* Read YDKJS Async & Performance Appendix B
 
 **Thoughts**:
+I didn't really understand a whole lot of Appendix B... but that's okay. I have a very, very rudimentary understanding of the concepts presented in that chapter, and I know where to go when I'm a little bit further along. After reviewing promises in YDKJS ES6 Chapter 4, I'm feeling a little bit more comfortable with that, and I'm marking the "Async" book complete.
 
 **Link(s) to work**:
+More code to practice concepts from YDKJS: [promises](https://github.com/AgathaLynn/web-development-learning-path/blob/master/You-Dont-Know-JS/practice/es6-ch3-promises2.js)
 
 ## Wednesday, 12 April
 
@@ -19,7 +23,7 @@
 A lot of the content of the YDKJS ES6 book is review -- which I badly needed. I'm starting to feel like things are dragging and I'm not making much progress. It might help to devote a day to just *finishing* some of the stuff I started, so that I can move forward.
 
 **Link(s) to work**:
-Code to understand YDKJS reading: [classes](https://github.com/AgathaLynn/web-development-learning-path/blob/master/You-Dont-Know-JS/practice/es6-ch3-classes.js)
+Code to understand YDKJS reading: [classes](https://github.com/AgathaLynn/web-development-learning-path/blob/master/You-Dont-Know-JS/practice/es6-ch3-classes.js), [promises](https://github.com/AgathaLynn/web-development-learning-path/blob/master/You-Dont-Know-JS/practice/es6-ch3-promises.js), and [more promises](https://github.com/AgathaLynn/web-development-learning-path/blob/master/You-Dont-Know-JS/practice/es6-ch3-promises1.js).
 
 ## Tuesday, 11 April
 
