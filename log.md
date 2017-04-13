@@ -1,9 +1,19 @@
 # Progress Log
 
+## Thursday, 13 April
+
+**Today's Progress**
+
+**Thoughts**:
+
+**Link(s) to work**:
+
 ## Wednesday, 12 April
 
 **Today's Progress**
 * Finished working through YDKJS ES6 Chapter 3
+* Started YDKJS ES6 Chapter 4
+* Met with team for momentum clone project
 
 **Thoughts**:
 A lot of the content of the YDKJS ES6 book is review -- which I badly needed. I'm starting to feel like things are dragging and I'm not making much progress. It might help to devote a day to just *finishing* some of the stuff I started, so that I can move forward.
