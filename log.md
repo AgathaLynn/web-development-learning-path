@@ -3,10 +3,13 @@
 ## Friday, 14 April
 
 **Today's Progress**
+* Finished YDKJS ES6 Chapter 5
 
 **Thoughts**:
 
 **Link(s) to work**:
+Playing with sets: [sets](https://github.com/AgathaLynn/web-development-learning-path/blob/master/You-Dont-Know-JS/practice/es6-ch5-sets.js)
+
 
 ## Thursday, 13 April
 
