@@ -14,6 +14,7 @@
 * Finished working through YDKJS ES6 Chapter 4
 * Read YDKJS Async & Performance Appendix B
 * Started working through YDKJS ES6 Chapter 5 (up to sets)
+* Revised write-up of "fix" to github's css (from last Friday)
 
 **Thoughts**:
 I didn't really understand a whole lot of Appendix B... but that's okay. I have a very, very rudimentary understanding of the concepts presented in that chapter, and I know where to go when I'm a little bit further along. After reviewing promises in YDKJS ES6 Chapter 4, I'm feeling a little bit more comfortable with that, and I'm marking the "Async" book complete.
