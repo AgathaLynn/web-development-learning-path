@@ -161,13 +161,13 @@ for (var j = 0; j < ages.length; j++) {
   ages[j].style.maxWidth = aWidth + "px";
 }
 ````
-And there you have it. Done.
+And there you have it. Done:
 
 <p align=center>
  <img src="https://github.com/AgathaLynn/web-development-learning-path/blob/master/log/writeups/after.png">
 </p>
 
-This turned out to be quite a project. Even though it's not perfect, it's one that I'm proud of. I think this was the first time that I actually using programming to make my life easier. I found a problem, tried to fix it, and actually succeeded. I'm looking forward to using my new "fix" as I finish working through the *You Don't Know JavaScript* series and wade through documentation on GitHub.
+This turned out to be quite a project. Even though it's not perfect, it's one that I'm proud of. I think this was the first time that I actually using programming to make my life easier. I found a problem, tried to fix it, and actually succeeded. I'm looking forward to using my new "fix" as I finish working through the *You Don't Know JS* series and wade through documentation on GitHub.
 
 ---
 **NB:** A week later, I'm still using (and loving) my custom styles. I *have* found that I nearly always need to refresh the page before my changes take effect. I haven't been able to fix this, and having to refresh the page is such an easy thing that I've honestly stopped trying. My code, imperfect as it is, does what I need it to do. It's easy, unobtrusive, and gets the job done.
