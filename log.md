@@ -3,12 +3,16 @@
 ## Friday, 14 April
 
 **Today's Progress**
-* Finished YDKJS ES6 Chapter 5
+* Joined Rhinos Cohort (and added intro)
+* Finished YDKJS ES6 Ch. 5, started Ch. 6 (did Arrays section)
 
 **Thoughts**:
 
 **Link(s) to work**:
 Playing with sets: [sets](https://github.com/AgathaLynn/web-development-learning-path/blob/master/You-Dont-Know-JS/practice/es6-ch5-sets.js)
+
+Playing with arrays:
+[arrays](https://github.com/AgathaLynn/web-development-learning-path/blob/master/You-Dont-Know-JS/practice/es6-ch6-array.js)
 
 
 ## Thursday, 13 April
