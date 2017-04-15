@@ -10,7 +10,11 @@ I'm currently working through Kyle Simpson's [*You Don't Know JS* book series](h
 
 See, I work through the books something like this: I open a chapter of *YDKJS* in Chrome on the left side of my screen, open a code editor on the right, and move back and forth between the two windows. Read a little, try to code up an example that works, then scan back and forth between the sample code and my own, trying to figure out why *my* code is throwing errors left and right, when *his* code (presumably) does not.
 
-Up until Friday, I had been largely successful at containing my frustration with what really ought to have been only a minor annoyance: When I "shrunk" my browser window down to half the width of my screen, GitHub's website did *NOT* politely shrink down to my desired width. Nope. Instead, I got the dreaded horizontal scrollbar, which left me scrolling back and forth and back and forth as I progressed from one line of text to the next. Instead of quickly glancing from one side of my screen to the other, I was maximizing and minimizing windows, scrolling back and forth, and constantly losing and finding my place in both the book and my own code.
+Up until Friday, I had been largely successful at containing my frustration with what really ought to have been only a minor annoyance:
+
+![before](https://github.com/AgathaLynn/web-development-learning-path/blob/master/log/writeups/before.jpg)
+
+When I "shrunk" my browser window down to half the width of my screen, GitHub's website did *NOT* politely shrink down to my desired width. Nope. Instead, I got the dreaded horizontal scrollbar, which left me scrolling back and forth and back and forth as I progressed from one line of text to the next. Instead of quickly glancing from one side of my screen to the other, I was maximizing and minimizing windows, scrolling back and forth, and constantly losing and finding my place in both the book and my own code.
 
 Like I said, though: I'd been putting up with it. Until Friday, when I decided I'd had it. And realized that this might be a problem that I could *fix*.
 
@@ -156,6 +160,8 @@ for (var j = 0; j < ages.length; j++) {
 }
 ````
 And there you have it. Done.
+
+![after](https://github.com/AgathaLynn/web-development-learning-path/blob/master/log/writeups/after.png)
 
 This turned out to be quite a project. Even though it's not perfect, it's one that I'm proud of. I think this was the first time that I actually using programming to make my life easier. I found a problem, tried to fix it, and actually succeeded. I'm looking forward to using my new "fix" as I finish working through the *You Don't Know JavaScript* series and wade through documentation on GitHub.
 
