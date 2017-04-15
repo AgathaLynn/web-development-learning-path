@@ -6,7 +6,7 @@
 * Joined Rhinos Cohort (and added intro)
 * Finished YDKJS ES6 Ch. 5, started Ch. 6 (did Arrays section)
 
-**Thoughts**:
+**Thoughts**: Chugging along. The end of the YDKJS books is in sight - which is a good thing. They've been a fantastic resource, but after working on them for almost 3 months, I'm ready to change things up a bit. I'm hoping that by the end of this next week, I'll be done with the YDKJS books & done with the Momentum clone. I'll still have CS50 to work on... and so many *new* things on the horizon!
 
 **Link(s) to work**:
 Playing with sets: [sets](https://github.com/AgathaLynn/web-development-learning-path/blob/master/You-Dont-Know-JS/practice/es6-ch5-sets.js)
