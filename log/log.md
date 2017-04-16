@@ -4,11 +4,15 @@
 
 **Today's Progress**
 * Finished YDKJS ES6 Chapter 6
+* Worked on CS50 pset 7 (implemented index, sell, history)
+* Worked on Momentum clone with L (got settings working)
 
 **Thoughts**:
 
 **Link(s) to work**:
 Practice code from YDKJS ES6 Chapter 6: [objects](https://github.com/AgathaLynn/web-development-learning-path/blob/master/You-Dont-Know-JS/practice/es6-ch6-obj.js) & [strings](https://github.com/AgathaLynn/web-development-learning-path/blob/master/You-Dont-Know-JS/practice/es6-ch6-string.js)
+
+Momentum clone project repo [here](https://github.com/Simba-Paws/Simba-Paws-Momentum)
 
 ## Friday, 14 April
 
