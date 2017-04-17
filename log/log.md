@@ -1,5 +1,17 @@
 # Progress Log
 
+## Sunday, 16 April
+
+**Today's Progress**
+* Finished CS50 pset7 (implemented history and additional feature)
+* Forked repo for FCC speedrun challenge (starts Tuesday)
+
+**Thoughts**:
+Today was Easter Sunday. Other things took precedence.
+
+**Link(s) to work**:
+New repository: [FCC Speedrun Challenge](https://github.com/AgathaLynn/chingu-fcc-speedrun-challenge)
+
 ## Saturday, 15 April
 
 **Today's Progress**
@@ -8,6 +20,7 @@
 * Worked on Momentum clone with L (got settings working)
 
 **Thoughts**:
+Productive day.
 
 **Link(s) to work**:
 Practice code from YDKJS ES6 Chapter 6: [objects](https://github.com/AgathaLynn/web-development-learning-path/blob/master/You-Dont-Know-JS/practice/es6-ch6-obj.js) & [strings](https://github.com/AgathaLynn/web-development-learning-path/blob/master/You-Dont-Know-JS/practice/es6-ch6-string.js)
