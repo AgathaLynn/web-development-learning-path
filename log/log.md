@@ -1,5 +1,16 @@
 # Progress Log
 
+## Tuesday, 18 April
+
+**Today's Progress**
+* Watched CS50 Week 10 Shorts
+* Finished reading YDKJS ES7 Ch7
+
+**Thoughts**: The YDKJS reading is, I think, going a little bit over my head. But I've kind of decided I'm okay with that, and that this is probably just a series that I'll go back and reread a few months down the road. 
+
+**Link(s) to work**:
+Practic code form YDKJS reading: [proxies](https://github.com/AgathaLynn/web-development-learning-path/blob/master/You-Dont-Know-JS/practice/es6-ch7-proxies.js)
+
 ## Monday, 17 April
 
 **Today's Progress**
@@ -7,7 +18,7 @@
 * Started YDKJS ES6 Ch7 (up to [Proxies](https://github.com/getify/You-Dont-Know-JS/blob/master/es6%20%26%20beyond/ch7.md#proxies))
 
 **Thoughts**:
-The CS50 lecture was mostly (but not entirely) review. That said, the form validation information was both interesting and helpful. 
+The CS50 lecture was mostly (but not entirely) review. That said, the form validation information was both interesting and helpful.
 
 **Link(s) to work**:
 Practice code from YDKJS reading: [Function Names](https://github.com/AgathaLynn/web-development-learning-path/blob/master/You-Dont-Know-JS/practice/es6-ch7-functions.js), [Meta Properties](https://github.com/AgathaLynn/web-development-learning-path/blob/master/You-Dont-Know-JS/practice/es6-ch7-meta.js), & [Symbols](https://github.com/AgathaLynn/web-development-learning-path/blob/master/You-Dont-Know-JS/practice/es6-ch7-symbol.js)
