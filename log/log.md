@@ -1,15 +1,28 @@
 # Progress Log
 
+## Wednesday, 19 April
+
+**Today's Progress**
+
+**Thoughts**:
+
+**Link(s) to work**:
+
 ## Tuesday, 18 April
 
 **Today's Progress**
 * Watched CS50 Week 10 Shorts
 * Finished reading YDKJS ES7 Ch7
+* Worked on Momentum clone project
 
-**Thoughts**: The YDKJS reading is, I think, going a little bit over my head. But I've kind of decided I'm okay with that, and that this is probably just a series that I'll go back and reread a few months down the road. 
+**Thoughts**: The YDKJS reading is, I think, going a little bit over my head. But I've kind of decided I'm okay with that, and that this is probably just a series that I'll go back and reread a few months down the road.
+
+I got a lot done today.
 
 **Link(s) to work**:
 Practic code form YDKJS reading: [proxies](https://github.com/AgathaLynn/web-development-learning-path/blob/master/You-Dont-Know-JS/practice/es6-ch7-proxies.js)
+
+Momentum clone project repo: [here](https://github.com/Simba-Paws/Simba-Paws-Momentum). Live demo [here](https://simba-paws.github.io/Simba-Paws-Momentum/)
 
 ## Monday, 17 April
 
