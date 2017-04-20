@@ -3,10 +3,13 @@
 ## Wednesday, 19 April
 
 **Today's Progress**
+* Complete tribute page (project 1 of FCC Speedrun Challenge)
 
 **Thoughts**:
+Really tired today... but Chingu Cohorts (and related project and challenges) are pretty motivating. It also got me to actually publish a blog post about my work... which is something kind of new for me.
 
 **Link(s) to work**:
+[Tribute Page](https://agathalynn.github.io/chingu-fcc-speedrun-challenge/frontend/tribute-page/index.html) & [Blog Post](https://medium.com/@agathalynn/tribute-page-fcc-speedrun-project-1-e4f4b7cb89a8)
 
 ## Tuesday, 18 April
 
