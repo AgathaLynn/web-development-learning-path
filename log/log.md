@@ -1,9 +1,22 @@
 # Progress Log
 
+## Thursday, 20 April
+
+**Today's Progress**
+* Completed random quote machine (project 2 of FCC Speedrun Challenge)
+* Completed draft of write-up on random quote machine
+
+**Thoughts**:
+I'm *so* tired. For project notes, see write-up tomorrow
+
+**Link(s) to work**:
+[Random Quote Machine](https://agathalynn.github.io/chingu-fcc-speedrun-challenge/frontend/random-quote-machine/index.html)
+
 ## Wednesday, 19 April
 
 **Today's Progress**
-* Complete tribute page (project 1 of FCC Speedrun Challenge)
+* Completed tribute page (project 1 of FCC Speedrun Challenge)
+* Completed and published(!) write-up of tribute page
 
 **Thoughts**:
 Really tired today... but Chingu Cohorts (and related project and challenges) are pretty motivating. It also got me to actually publish a blog post about my work... which is something kind of new for me.
