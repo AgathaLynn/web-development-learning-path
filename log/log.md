@@ -1,5 +1,23 @@
 # Progress Log
 
+## Friday, 21 April
+
+**Today's Progress**
+* Finished & published blog post on random quote machine
+* Completed timestamp microservice project (project 3 of FCC Speedrun Challenge)
+* Wrote & published blog post on timestamp microservice project
+* Read YDKJS ES6 Chapter 8
+
+**Thoughts**:
+I finished the *You Don't Know JS* books! They turned out to be a fantastic resource - even though, all the way through, I was wondering whether I was really understanding them well enough to get much out of them. Now, as I'm working on actual coding "projects" with the FCC Speedrun Challenge, I'm finding that I'm using (successfully, even!) tools that were hardly on my radar before I started the series.
+
+Regarding the Speedrun itself... there's a part of me that wonders whether I might not learn more from taking the projects more slowly, making sure I have a solid understanding of the theory, that sort of thing? On the other hand, doing things this way means that later, when I go back and try to understand the foundations better, I'll at least go in knowing that this is something that *I CAN DO*. Because, you know, I'll already have done it. 
+
+**Link(s) to work**:
+Random Quote Machine: [write-up](https://medium.com/@agathalynn/quote-machine-fcc-speedrun-project-2-483ab4b13d0f)
+
+Timestamp Microservice Project: [Code](https://github.com/AgathaLynn/chingu-fcc-speedrun-challenge/tree/master/backend/api-timestamp) & [write-up](https://medium.com/@agathalynn/timestamp-microservice-fcc-speedrun-project-3-69c35596a9be)
+
 ## Thursday, 20 April
 
 **Today's Progress**

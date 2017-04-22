@@ -21,7 +21,7 @@ Note: Sections are roughly equivalent to the tiers P1xt's outlines. Courses/Book
 | Project: Portfolio from the frontend section of FCC | | 03/11/17 |
 | **YDKJS: Types & Grammar** | [link](https://github.com/getify/You-Dont-Know-JS) | 02/06/17 |
 | **YDKJS: Async & Performance** | [link](https://github.com/getify/You-Dont-Know-JS) | 04/13/17 |
-| **YDKJS: ES6 & Beyond** | [link](https://github.com/getify/You-Dont-Know-JS) |  |
+| **YDKJS: ES6 & Beyond** | [link](https://github.com/getify/You-Dont-Know-JS) | 4/21/17 |
 | **CS50 (on edX)** | [link](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x) |  |
 | Learn to Code Advanced HTML & CSS | [link](http://learn.shayhowe.com/advanced-html-css/) | |
 | Clone [this](https://creativemarket.com/ikonome/686585-Material-Resume-Blue/screenshots/#screenshot2) online resume template | | |
