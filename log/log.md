@@ -1,5 +1,25 @@
 # Progress Log
 
+## Monday, 24 April
+
+**Today's Progress**
+* Finished Pomodoro Clock & write-up (FCC Speedrun Challenge Project 5)
+
+**Thoughts**:
+Refer to write-up? I guess?
+
+**Link(s) to work**:
+Pomodoro Clock: [code](https://github.com/AgathaLynn/chingu-fcc-speedrun-challenge/tree/master/frontend/pomodoro-clock), [demo](https://agathalynn.github.io/chingu-fcc-speedrun-challenge/frontend/pomodoro-clock/index.html), and [write-up](https://medium.com/@agathalynn/pomodoro-clock-fcc-speedrun-project-5-8270fb92bae)
+
+## Sunday, 23 April
+
+**Today's Progress**
+* Worked on Pomodoro Clock (FCC Speedrun Challenge Project 5)
+
+**Thoughts**:
+
+**Links(s) to work**:
+
 ## Saturday, 22 April
 
 **Today's Progress**
