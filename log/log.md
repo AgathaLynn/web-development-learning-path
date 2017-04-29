@@ -1,5 +1,54 @@
 # Progress Log
 
+## Friday, 28 April
+
+**Today's Progress**
+* Wrote and published write-up for Wikipedia Viewer Project
+
+**Thoughts**:
+See write-up
+
+**Link(s) to work**:
+Wikipedia Viewer [blog post](https://medium.com/@agathalynn/wikipedia-viewer-fcc-speedrun-project-7-12b4f8824a77)
+
+## Thursday, 27 April
+
+**Today's Progress**
+* Completed FCC Wikipedia Viewer Project
+
+**Thoughts**:
+See write-up tomorrow
+
+**Link(s) to work**:
+Wikipedia Viewer [code](https://github.com/AgathaLynn/chingu-fcc-speedrun-challenge/blob/master/frontend/wikipedia-viewer) & [demo](https://agathalynn.github.io/chingu-fcc-speedrun-challenge/frontend/wikipedia-viewer/index.html)
+
+
+## Wednesday, 26 April
+
+**Today's Progress**
+* Finished FCC Local Weather project
+* Completed draft of local weather project write-up
+
+**Thoughts**:
+
+**Link(s) to work**:
+
+## Tuesday, 25 April
+
+**Today's Progress**
+* Created github repo for bot project
+* Added functionality to extension icon for Momentum clone
+* Skimmed ngrok's "Getting Started" guide
+* Worked on FCC Local Weather project
+
+**Thoughts**:
+
+**Link(s) to work**:
+GitHub repository for bot project: [here](https://github.com/AgathaLynn/rhino-bot-project)
+
+Momentum clone project repo [here](https://github.com/Simba-Paws/Simba-Paws-Momentum)
+
+
 ## Monday, 24 April
 
 **Today's Progress**
