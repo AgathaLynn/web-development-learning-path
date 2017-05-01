@@ -1,9 +1,38 @@
 # Progress Log
 
+## Sunday, 30 April
+
+**Today's Progress**
+* Effective Thinking through Mathematics: Introduction & Week 1
+* Installed MongoDB, worked through Quick Start guide
+* Started FCC URL-Shortener API project
+
+**Thoughts**:
+Most of today's work had to do with getting MongoDB set up and figuring out how to use it. It's new and different and messy. But I'll get used to it, and then it will be just another tool. And maybe one I'll really enjoy.
+
+The "Effective Thinking" course is actually skipping ahead a little bit, which I did on purpose to give myself a bit of a break. The course is easy (as I figured it might be). I'm kind of feeling like I might have stretched myself too thin...
+
+**Link(s) to work**:
+My URL-Shortener, so far: [here](https://github.com/AgathaLynn/chingu-fcc-speedrun-challenge/tree/master/backend/api-url-shortener)
+
+## Saturday, 29 April
+
+**Today's Progress**
+* Finished CS50 pset 8
+* Worked on bot project - got two commands (exorcise, emojify) working
+* Read "Learn to Code Advanced HTML & CSS", part 1
+
+**Thoughts**:
+I'm just about done with CS50. I think that over the next week or so, I'm going to watch through some (not all) of the Week 11 seminars. After that, all that's left is the final project. Which I'm going to skip for right now. Between the Speedrun Challenge and the Bot project, my hands are full. (Honestly - I might just skip the project entirely. I'm doing enough other projects that *could* fulfill the requirements, I'm just not doing them specifically for this course.)
+
+**Link(s) to work**:
+Bot project repo [here](https://github.com/AgathaLynn/rhino-bot-project)
+
 ## Friday, 28 April
 
 **Today's Progress**
 * Wrote and published write-up for Wikipedia Viewer Project
+* Worked on CS50 Pset 8
 
 **Thoughts**:
 See write-up
