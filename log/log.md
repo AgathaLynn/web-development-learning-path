@@ -1,5 +1,29 @@
 # Progress Log
 
+## Tuesday, 2 May
+
+**Today's Progress**
+* Made Tic-Tac-Toe game (will review tomorrow)
+* Watched sections 1 and 2 of Vue JS course on Udemy
+
+**Thoughts**:
+I was going to use Vue JS for the Tic-Tac-Toe game... but then I decided to go ahead and start, and then I was finished, and I never did get to the "adding Vue" part. Oh, well.
+
+**Link(s) to work**:
+Tic-Tac-Toe project repo: [here](https://github.com/AgathaLynn/chingu-fcc-speedrun-challenge/tree/master/frontend/tictactoe-game)
+
+## Monday, 1 May
+
+**Today's Progress**
+* Finished URL shortener API project
+* Drafted blog article on URL shortener project
+
+**Thoughts**:
+MongoDB was as challenging as I expected. But I'm learning
+
+**Link(s) to work**:
+Project repo: [here](https://github.com/AgathaLynn/chingu-fcc-speedrun-challenge/tree/master/backend/api-url-shortener)
+
 ## Sunday, 30 April
 
 **Today's Progress**
