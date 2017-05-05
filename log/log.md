@@ -1,5 +1,28 @@
 # Progress Log
 
+## Thursday, 4 May
+
+**Today's Progress**
+* Read "Project Specification Documents" article
+* Used article to help me sketch out a plan/idea for bot project
+* Got started on bot project
+
+**Thoughts**:
+I'm not sure how big of a group we're going to end up having for this group project... it would be nice if A would check back in and there were at least two of us. Otherwise, things are going along pretty well, and it's fun anyway.
+
+**Link(s) to work**:
+Bot project repo: [here](https://github.com/AgathaLynn/rhino-bot-project)
+
+## Wednesday, 3 May
+
+**Today's Progress**
+* Wrote and published write-up of tic-tac-toe game
+* Did Week 2 of "Effective Thinking Through Mathematics"
+
+**Thoughts**:
+
+**Link(s) to work**:
+
 ## Tuesday, 2 May
 
 **Today's Progress**
