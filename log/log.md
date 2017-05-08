@@ -1,5 +1,52 @@
 # Progress Log
 
+## Monday, 8 May
+
+**Today's Progress**
+* Completed File Metadata API project & write-up
+* Did Week 3 of *Effective Thinking through Mathematics**
+
+**Thoughts**:
+The file metadata project was easier than I expected - the project and write-up only took a couple of hours. The information in the Effective Thinking course has all been familiar so far (which is to be expected)... but the instructor does an absolutely fantastic job of making some really challenging concepts seem almost intuitive.
+
+**Link(s) to work**:
+File Metadata Project: [Code](https://github.com/AgathaLynn/chingu-fcc-speedrun-challenge/blob/master/backend/api-file-metadata) and [Write-up](https://medium.com/@agathalynn/file-metadata-microservice-fcc-speedrun-project-12-5abae5a1c208)
+
+## Sunday, 7 May
+
+**Today's Progress**
+* Did write-up for image search abstraction layer api project (fcc speedrun)
+
+**Thoughts**:
+Not much to say outside of the log. Except that I think I really need to go back and learn MongoDB the *right* way, instead of just picking out the bits and pieces I want to use.
+
+**Link(s) to work**:
+Image search abstraction layer [write-up](https://medium.com/@agathalynn/image-search-abstraction-layer-fcc-speedrun-project-11-201c1e0bc2f4)
+
+
+
+## Saturday, 6 May
+
+**Today's Progress**
+* Got api image search project working
+
+**Thoughts**:
+The image search project actually came together much more easily than I expected. I did open up previous projects to use as a reference when writing code for this one. Also - I think I'm setting up my databases wrong? Maybe? I guess I'll figure it out when I get to the relevant sections in the guide (if not before).
+
+**Link(s) to work**:
+Image search abstraction layer [code](https://github.com/AgathaLynn/chingu-fcc-speedrun-challenge/blob/master/backend/api-image-search)
+
+## Friday, 5 May
+
+**Today's Progress**
+* Watched Section 3 of VueJS course on Udemy
+* Did Twitch.tv project and write-up
+
+**Thoughts**:
+
+**Link(s) to work**:
+
+
 ## Thursday, 4 May
 
 **Today's Progress**
