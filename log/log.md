@@ -1,13 +1,34 @@
 # Progress Log
 
+## Thursday, 11 May
+
+**Today's Progress**
+* Finished *Effective Thinking through Mathematics* course
+
+
+## Wednesday, 10 May
+
+**Today's Progress**
+* Finished Week 4 of *Effective Thinking through Mathematics*
+
+## Tuesday, 9 May
+
+**Today's Progress**
+* Read up on and installed Gulp
+* Worked on bot project
+
 ## Monday, 8 May
 
 **Today's Progress**
 * Completed File Metadata API project & write-up
-* Did Week 3 of *Effective Thinking through Mathematics**
+* Did Week 3 of *Effective Thinking through Mathematics*
 
 **Thoughts**:
 The file metadata project was easier than I expected - the project and write-up only took a couple of hours. The information in the Effective Thinking course has all been familiar so far (which is to be expected)... but the instructor does an absolutely fantastic job of making some really challenging concepts seem almost intuitive.
+
+I also did a little bit of reading today about implementing a build process. I think it's time. If I'm writing ES6 client-side code, then I really need to think about transpiling. And if I want to use Vue - and I probably ought to try out Vue or React or something - then I'll want to convert those files into "normal" files. Plus I need to figure out how to minify css and compress images and stuff sooner or later. Might as well be sooner. And there's unit testing to think about, and it would be awesome if I could use modules in client-side code... So yeah. It's time. I just need to figure out where to start.
+
+Gulp, maybe?
 
 **Link(s) to work**:
 File Metadata Project: [Code](https://github.com/AgathaLynn/chingu-fcc-speedrun-challenge/blob/master/backend/api-file-metadata) and [Write-up](https://medium.com/@agathalynn/file-metadata-microservice-fcc-speedrun-project-12-5abae5a1c208)
