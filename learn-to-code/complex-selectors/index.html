@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+
+<html lang="en">
+  <head>
+    <link href="main.css" rel="stylesheet">
+  </head>
+  <body>
+    <form action="#" method="post">
+      <fieldset>
+        What is your favorite primary color?
+        <label id="color-red">
+          <input type="radio" name="primary-color" value="red" checked> Red
+        </label>
+        <label id="color-yellow">
+          <input type="radio" name="primary-color" value="yellow"> Yellow
+        </label>
+        <label id="color-blue">
+          <input type="radio" name="primary-color" value="blue"> Blue
+        </label>
+      </fieldset>
+      <fieldset>
+        What is your favorite secondary color?
+        <label>
+          <input type="radio" name="secondary-color" value="orange" checked> Orange
+        </label>
+        <label>
+          <input type="radio" name="secondary-color" value="purple"> Purple
+        </label>
+        <label>
+          <input type="radio" name="secondary-color" value="green"> Green
+        </label>
+      </fieldset>
+      <fieldset disabled>
+        <div>Sorry - You cannot answer this question</div>
+        Do you know any songs about colors?
+        <label>
+          <input type="radio" name="songs" value="yes"> Yes
+        </label>
+        <label>
+          <input type="radio" name="songs" value="no" check> No
+        </label>
+      </fieldset>
+      <fieldset>
+        <input type="submit" name="submit" value="Submit">
+      </fieldset>
+    </form>
+
+    <section>
+      <h1>Songs about colors</h1>
+      <h3>A selection</h3>
+      <p>There are many songs about colors. Here are just a few:</p>
+      <ul>
+        <li><a class="song-link" href="https://www.youtube.com/watch?v=BHRZij8fPxc">Grün, Grün, Grün</a></li>
+        <li><a class="song-link" href="https://rainbowsongdontclickonthisitsnotreal.com">The Rainbow Song</a></li>
+        <li>Colors of the Wind</li>
+      </ul>
+    </section>
+  </body>
+</html>

@@ -1,0 +1,61 @@
+/*
+  SELECTORS
+*/
+
+/* attribute present selector */
+/* descendant selector */
+
+/* note: this is probably better done with the :disabled pseudo-class */
+fieldset[disabled] {
+  font-style: italic;
+  color: #aaa;
+}
+
+fieldset[disabled] div {
+  color: red;
+  font-weight: bold;
+  font-style: normal;
+}
+
+/* adjacent sibling selector */
+h1 + h3 {
+  text-transform: uppercase;
+  color: #aaa;
+  margin-top: -10px;
+}
+
+/* attribute hyphenated selector */
+label[id|="color"] {
+  font-family: monospace;
+  font-weight: bold;
+  text-shadow: 0px 0px 2px black;
+}
+
+/* attribute ends-with selector */
+label[id$="red"] {
+  color: red;
+}
+
+label[id$="blue"] {
+  color: blue;
+}
+
+label[id$="yellow"] {
+  color: yellow;
+}
+
+/*
+  PSEUDO-CLASSES
+*/
+
+.song-link {
+  text-decoration: none;
+}
+
+.song-link:link {
+  color: pink;
+}
+
+.song-link:visited {
+  color: green;
+}

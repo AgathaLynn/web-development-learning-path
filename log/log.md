@@ -1,10 +1,53 @@
 # Progress Log
 
+## Wednesday, 17 May
+
+**Today's Progress**
+* Worked through "Learn to code Advanced HTML & CSS" lesson 3
+
+**Thoughts**:
+
+**Link(s) to work**:
+Practice code from reading: [CSS Selectors](../learn-to-code/complex-selectors/)
+
+## Monday & Tuesday, 15-16 May
+
+**Today's Progress**
+* Continued work on bot project
+
+**Thoughts**:
+I think I might end up dropping phase 2 of the speedrun challenge. I've been focusing on getting this bot project finished (nicely - because it's a good learning experience, and because it's a project that will be shared). I feel like trying to do both is stretching me too thin, and this one feels more important right now.
+
+And I've been neglecting the p1xt study guide items, which isn't the end of the world (I'm still learning). But it would be nice to be moving forward again.
+
+**Link(s) to work**:
+Bot project repo: [here](https://github.com/AgathaLynn/slack-fccbot) (The repo has been renamed to better reflect the end project.)
+
+
+## Saturday & Sunday, 13-14 May
+
+**Today's Progress**
+* Continued work on bot project & Landing page
+
+## Friday, 12 May
+
+**Today's Progress**
+* Worked on bot project
+
+**Thoughts**:
+The bot project is coming along well, and I'm getting so much more comfortable working with a database (yay Mongoose? It definitely makes at least some things easier, right from the get-go). Still kind of confused about the Speedrun API stuff...
+
+**Link(s) to work**:
+Bot project repo: [here](https://github.com/AgathaLynn/rhino-bot-project)
+
 ## Thursday, 11 May
 
 **Today's Progress**
 * Finished *Effective Thinking through Mathematics* course
+* Read "Learn to Code Advanced HTML & CSS" Lesson 2
 
+**Thoughts**:
+I'm trying to figure out how to put my speedrun projects together into a single-page app, and... I'm kind of confused. I think I can figure out most of the stuff... but how to do the API projects? How can I deliver *just* JSON to a user... on the same page that I've already delivered.
 
 ## Wednesday, 10 May
 
