@@ -1,14 +1,42 @@
 # Progress Log
 
+## Friday, 19 May
+
+**Today's Progress**
+* Worked through "Learn to Code Advanced HTML & CSS" lesson 5 & 6
+* Started *Javascript Allonge* (up to "Recipes with Basic Functions")
+
+**Thoughts**:
+Arrow functions are a lot harder to read than "normal" functions - at least when they aren't one-liners.
+
+**Link(s) to work**:
+I didn't save most of my practice code from the reading, but what I have is [here](../js-allonge/basic-functions.js)
+
+## Thursday, 18 May
+
+**Today's Progress**
+* Finished bot project
+* Worked through "Learn to Code Advanced HTML & CSS" lesson 4
+* Did sections 3-4 of *Setting up ES6*
+
+**Thoughts**:
+With regard to the bot project - there are *always* more things that can be done, so it's kind of hard to call the project "finished". I might still come back and make tweaks. But I want to shift my focus for the next couple of weeks back over to my "learning path" - and then start another project (either a personal project or one of the freeCodeCamp projects).
+
+**Link(s) to work**:
+Bot project: [repo](https://github.com/AgathaLynn/slack-fccbot) and [landing page](http://slack-fccbot.herokuapp.com)
+
+
 ## Wednesday, 17 May
 
 **Today's Progress**
 * Worked through "Learn to code Advanced HTML & CSS" lesson 3
+* Worked on bot project (just about done!)
 
 **Thoughts**:
 
 **Link(s) to work**:
 Practice code from reading: [CSS Selectors](../learn-to-code/complex-selectors/)
+Bot project repo: [here](https://github.com/AgathaLynn/slack-fccbot)
 
 ## Monday & Tuesday, 15-16 May
 
