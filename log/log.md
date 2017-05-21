@@ -5,11 +5,11 @@
 * Did "Learn to Code Advanced HTML & CSS" lesson 7
 
 **Thoughts**: I miss projects...
-Seriously - CSS isn't my favorite thing in the whole world, but I did have fun playing around with transforms. And *JavaScript Allonge* is interesting - if a bit weird. I'm glad I watched the lecture first. It helps to see the motivation for why we're doing things the way that we are (because otherwise I'd be wondering). 
+Seriously - CSS isn't my favorite thing in the whole world, but I did have fun playing around with transforms. And *JavaScript Allonge* is interesting - if a bit weird. I'm glad I watched the lecture first. It helps to see the motivation for why we're doing things the way that we are (because otherwise I'd be wondering).
 
 **Link(s) to work**:
 Playing with CSS transforms on Codepen: [here](https://codepen.io/AgathaLynn/pen/WjYOeL?editors=1100)
-Practice code from JavaScript Allongé: [composing](../js-allonge/composition.js), [flattening](../js-allonge/flatten.js), and [mapping](../js-allonge/mappings.js)
+Practice code from JavaScript Allongé: [composing](../js-allonge/composition.js), [flattening](../js-allonge/flatten.js), and [mapping](../js-allonge/mapping.js)
 
 ## Friday, 19 May
 
