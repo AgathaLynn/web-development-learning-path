@@ -1,5 +1,17 @@
 # Progress Log
 
+## Sunday, 21 May
+
+**Today's Progress**
+* Continued *Javascript Allonge* (Up to "Tortoises, Hares, ...")
+
+**Thoughts**:
+
+**Link(s) to work**:
+Practice code from *Javascript Allonge*: [tailcalls](../js-allonge/tailcalls.js)
+
+## Saturday, 20 May
+
 **Today's Progress**
 * Continued *Javascript Allonge* (up to "Tail Calls")
 * Did "Learn to Code Advanced HTML & CSS" lesson 7
