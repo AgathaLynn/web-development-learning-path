@@ -1,11 +1,22 @@
 # Progress Log
 
+## Monday, 22 May
+
+**Today's Progress**
+* Continued *Javascript Allonge* (Up to "Recipes with Data")
+
+**Thoughts**:
+I like JavaScript. (Also... the idea of making linked lists out of functions is weird, but kind of cool.)
+
+**Link(s) to work**: Practice code from *Javascript Allonge*: [more folding](../js-allonge/morefolds.js), [iterators](../js-allonge/iterators.js), [data](../js-allonge/data.js)
+
 ## Sunday, 21 May
 
 **Today's Progress**
 * Continued *Javascript Allonge* (Up to "Tortoises, Hares, ...")
 
 **Thoughts**:
+Much fun
 
 **Link(s) to work**:
 Practice code from *Javascript Allonge*: [tailcalls](../js-allonge/tailcalls.js)
