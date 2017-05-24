@@ -1,0 +1,32 @@
+div[class$='box'] {
+  background: white;
+  height: 50px;
+  width: 50px;
+  transition-property: background, height, width;
+  transition-duration: 1s;
+  transition-timing-function: linear;
+  display: inline-block;
+  vertical-align: top;
+}
+
+div[class$='box']:hover {
+  border: 2px solid black;
+  height: 80px;
+  width: 80px;
+}
+
+div[class^='red']:hover {
+  background: red;
+}
+
+div[class^='yellow']:hover {
+  background: yellow;
+}
+
+div[class^='green']:hover {
+  background: green;
+}
+
+div[class^='blue']:hover {
+  background: blue;
+}

@@ -1,5 +1,18 @@
 # Progress Log
 
+## Tuesday, 23 May
+
+**Today's Progress**
+* Did "Learn to Code" lesson 8 (Transitions & Animations)
+* Continued *Javascript Allonge* (up to "A Warm Cup")
+
+**Thoughts**: The transitions and animations lesson made everything sound so easy. And I know it won't be - a lot of the difficulty, I think, will be in figuring out how exactly things *ought* to move. That is, figuring out what code to write.
+
+**Link(s) to work**:
+Practice code with CSS transitions: [here](../learn-to-code/transitions)
+
+Practice code from *JavaScript Allonge*: [flipping](../js-allonge/data-flip.js), [mapping](../js-allonge/data-map), and puzzling out [how the Y combinator works](../js-allonge/why.js)
+
 ## Monday, 22 May
 
 **Today's Progress**
