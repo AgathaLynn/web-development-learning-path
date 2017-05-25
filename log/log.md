@@ -1,5 +1,16 @@
 # Progress Log
 
+## Wednesday, 24 May
+
+**Today's Progress**
+* Did "Learn to Code" lesson 9 (Feature Support & Polyfills)
+* Continued *Javascript Allongé* (up to "This and That")
+
+**Thoughts**: Didn't spend a lot of time on coding today.
+
+**Link(s) to work**:
+Practice code from reading: [here](../js-allonge/stack.js)
+
 ## Tuesday, 23 May
 
 **Today's Progress**
