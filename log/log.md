@@ -1,5 +1,19 @@
 # Progress Log
 
+## Thursday, 25 May
+
+**Today's Progress**
+* Read "Learn to Code" lesson 10 (Semantics & Accessibility)
+* Solved "Bender - Episode 1" from *Codingame Classic Puzzles - Medium*
+* Continued *Javascript Allonge* (up to "getWith")
+
+**Thoughts**: I had tried (unsuccessfully) to complete the Bender puzzle in early March. Today it was... not *easy*, exactly... but fairly straightforward. Which probably means I'm learning! I know that I'm improving in some respects - learning to use Node and Express and MongoDb... but I haven't noticed a major improvement in my skills with "just" JavaScript. So it was kind of cool to see that the improvement is actually happening. 
+
+**Link(s) to work**:
+Solution to the [Bender Puzzle](../codingame/bender.js).
+Practice code from *Javascript Allonge*: [method decorators](../js-allonge/method-decorators.js), [memoized fibonacci](../js-allonge/memoize.js)
+
+
 ## Wednesday, 24 May
 
 **Today's Progress**
