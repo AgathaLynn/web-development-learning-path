@@ -1,0 +1,203 @@
+/* =====
+  GENERAL STYLES
+=====*/
+* {
+  box-sizing: border-box;
+}
+
+body {
+  background: #373737;
+}
+
+.resume {
+  width: 100%;
+  max-width: 1200px;
+  margin: 0 auto;
+  box-shadow: 0px 0px 5px 1px black;
+}
+
+header, footer {
+  background: #2196f3;
+  color: white;
+}
+
+header {
+  position: relative;
+  box-shadow: 0px 4px 4px -3px #373737;
+  z-index: 10;
+}
+
+footer {
+  margin-top: -1px; /* Body was peeking through. Not sure why it wasn't flush */
+}
+
+.block {
+  padding-left: 10%;
+  padding-right: 10%;
+}
+
+.content {
+  padding-top: 30px;
+  padding-bottom: 30px;
+}
+
+.group {
+  display: inline-block;
+  vertical-align: middle;
+  position: relative;
+}
+
+/* =====
+  TEXT STYLING
+===== */
+
+h1, h2, h3, p, li {
+  font-family: 'Roboto Condensed', sans-serif;
+  font-weight: 300;
+  line-height: 1.2;
+}
+
+p, li {
+  font-size: 20px;
+}
+
+h1 {
+  font-size: 50px;
+}
+
+h2 {
+  font-size: 30px;
+}
+
+h3 {
+  font-size: 26px;
+  font-weight: 400;
+  color: #2196f3;
+}
+
+
+/* =====
+  NAVIGATION & CONTACT INFO (top and bottom bands of page)
+===== */
+
+nav, .contact {
+  background: #0069c0;
+}
+
+nav li {
+  display: inline-block;
+  padding: 15px;
+  margin-left: -15px; /* pulls nav menu flush with left edge of content */
+}
+
+li.active {
+  border-bottom: 3px solid white;
+}
+
+.contact {
+  padding-top: 15px;
+  padding-bottom: 15px;
+}
+
+.contact p {
+  font-size: 18px;
+}
+
+.contact i {
+  font-size: 5px;
+  vertical-align: middle;
+  padding: 0 5px;
+}
+
+.contact p:first-child {
+  width: 70%;
+}
+
+.contact p:last-child {
+  width: 30%;
+  text-align: right;
+}
+
+/* =====
+  HEADER AND FOOTER (second and second-last sections on page)
+===== */
+
+.title {
+  width: 60%;
+}
+
+.img {
+  width: 40%;
+  text-align: right;
+}
+
+.img img {
+  border-radius: 50%;
+}
+
+.links {
+  text-align: center;
+}
+
+.links .group {
+  padding-left: 15px;
+  padding-right: 15px;
+}
+
+.icon {
+  background: #0069c0;
+  height: 95px;
+  width: 95px;
+  border-radius: 50%;
+  font-size: 35px;
+  padding-top: 30px;
+  margin-bottom: 10px;
+}
+
+.icon,
+.icon ~ p {
+  text-align: center;
+}
+
+.icon ~ p {
+  font-size: 16px;
+}
+
+/* =====
+  STATEMENT OF PURPOSE
+===== */
+
+.statement {
+  background: #707070;
+  color: white;
+}
+
+/* =====
+  MAIN CONTENT
+===== */
+
+.resume-body {
+  box-shadow: 0px -4px 4px -3px #373737;
+  z-index: 10;
+  position: relative;
+}
+
+.left {
+  width: 40%;
+  background: white;
+  box-shadow: 4px 0px 4px -3px #707070;
+  z-index: 12;
+  padding-left: 10%;
+  padding-right: 5%;
+}
+
+.right {
+  width: 60%;
+  background: #efefef;
+  padding-right: 10%;
+  padding-left: 5%;
+}
+
+.resume-body section {
+  padding: 15px 0;
+}
