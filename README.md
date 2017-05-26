@@ -23,7 +23,7 @@ Note: Sections are roughly equivalent to the tiers P1xt's outlines. Courses/Book
 | **YDKJS: Async & Performance** | [link](https://github.com/getify/You-Dont-Know-JS) | 04/13/17 |
 | **YDKJS: ES6 & Beyond** | [link](https://github.com/getify/You-Dont-Know-JS) | 4/21/17 |
 | **CS50 (on edX)** | [link](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x) |  |
-| Learn to Code Advanced HTML & CSS | [link](http://learn.shayhowe.com/advanced-html-css/) | |
+| Learn to Code Advanced HTML & CSS | [link](http://learn.shayhowe.com/advanced-html-css/) | 5/25/17 |
 | Clone [this](https://creativemarket.com/ikonome/686585-Material-Resume-Blue/screenshots/#screenshot2) online resume template | | |
 | Read "Project Specification Documents" | [link](http://www.pixelearth.net/pages/project-specification) | 5/4/17 |
 | Effective Thinking Through Mathematics | [link](https://www.edx.org/course/effective-thinking-through-mathematics-utaustinx-ut-9-01x-0) | 5/11/17 |
