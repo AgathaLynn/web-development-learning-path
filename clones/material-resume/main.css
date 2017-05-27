@@ -201,3 +201,23 @@ li.active {
 .resume-body section {
   padding: 15px 0;
 }
+
+/* =====
+  SECTIONS
+===== */
+
+/* characteristics */
+.list-items li {
+  display: block;
+  border-bottom: 2px solid #cfcfcf;
+}
+
+.list-items span {
+  display: inline-block;
+  padding: 10px 0;
+}
+
+.list-items span:first-child {
+  font-weight: 700;
+  width: 120px;
+}
