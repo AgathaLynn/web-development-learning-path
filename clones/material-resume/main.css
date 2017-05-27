@@ -73,6 +73,7 @@ h3 {
   font-size: 26px;
   font-weight: 400;
   color: #2196f3;
+  padding: 15px 0;
 }
 
 
@@ -180,6 +181,11 @@ li.active {
   box-shadow: 0px -4px 4px -3px #373737;
   z-index: 10;
   position: relative;
+  height: 1000px;
+}
+
+.panel {
+  height: 100%;
 }
 
 .left {
@@ -220,4 +226,92 @@ li.active {
 .list-items span:first-child {
   font-weight: 700;
   width: 120px;
+}
+
+/* software */
+.meter-items li {
+  display: block;
+  padding: 7px 0;
+}
+
+.meter-items span {
+  display: inline-block;
+}
+
+.meter-items span:first-child {
+  width: 120px;
+}
+
+span[class^='meter'] {
+  width: 175px;
+  background: #cfcfcf;
+  height: 15px;
+  vertical-align: middle;
+  position: relative;
+}
+
+.meter-items span[class$='98']:after {
+  content: "";
+  background: #2196f3;
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 15px;
+  overflow: hidden;
+  width: 98%;
+}
+
+.meter-items span[class$='90']:after {
+  content: "";
+  background: #2196f3;
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 15px;
+  overflow: hidden;
+  width: 90%;
+}
+
+.meter-items span[class$='83']:after {
+  content: "";
+  background: #2196f3;
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 15px;
+  overflow: hidden;
+  width: 83%;
+}
+
+.meter-items span[class$='70']:after {
+  content: "";
+  background: #2196f3;
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 15px;
+  overflow: hidden;
+  width: 70%;
+}
+
+.meter-items span[class$='65']:after {
+  content: "";
+  background: #2196f3;
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 15px;
+  overflow: hidden;
+  width: 65%;
+}
+
+.meter-items span[class$='50']:after {
+  content: "";
+  background: #2196f3;
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 15px;
+  overflow: hidden;
+  width: 50%;
 }
