@@ -14,19 +14,19 @@ Note: Sections are roughly equivalent to the tiers P1xt's outlines. Courses/Book
 
 | Course/Book/Project | Link | Completed |
 | ------------------- | ---- | --------- |
-| **YDKJS: Up & Going** | [link](https://github.com/getify/You-Dont-Know-JS) | &#10003; 01/18/2017 |
-| **YDKJS: Scope & Closures** | [link](https://github.com/getify/You-Dont-Know-JS) | &#10003; 01/20/2017 |
-| **YDKJS: this & Object Prototypes** | [link](https://github.com/getify/You-Dont-Know-JS) | &#10003; 02/02/2017 |
-| Learn to Code HTML & CSS | [link](http://learn.shayhowe.com/html-css/) | &#10003; 02/21/2017 |
-| Project: Portfolio from the frontend section of FCC | | &#10003; 03/11/2017 |
-| **YDKJS: Types & Grammar** | [link](https://github.com/getify/You-Dont-Know-JS) | &#10003; 02/06/2017 |
-| **YDKJS: Async & Performance** | [link](https://github.com/getify/You-Dont-Know-JS) | &#10003; 04/13/2017 |
-| **YDKJS: ES6 & Beyond** | [link](https://github.com/getify/You-Dont-Know-JS) | &#10003; 4/21/2017 |
-| **CS50 (on edX)** | [link](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x) | &#10003; (except project) |
-| Learn to Code Advanced HTML & CSS | [link](http://learn.shayhowe.com/advanced-html-css/) | &#10003; 5/25/2017 |
-| Clone [this](https://creativemarket.com/ikonome/686585-Material-Resume-Blue/screenshots/#screenshot2) online resume template | | &#10003; 5/27/2017 |
-| Read "Project Specification Documents" | [link](http://www.pixelearth.net/pages/project-specification) | &#10003; 5/4/2017 |
-| Effective Thinking Through Mathematics | [link](https://www.edx.org/course/effective-thinking-through-mathematics-utaustinx-ut-9-01x-0) | &#10003; 5/11/2017 |
+| **YDKJS: Up & Going** | [link](https://github.com/getify/You-Dont-Know-JS) | 01/18/2017 |
+| **YDKJS: Scope & Closures** | [link](https://github.com/getify/You-Dont-Know-JS) | 01/20/2017 |
+| **YDKJS: this & Object Prototypes** | [link](https://github.com/getify/You-Dont-Know-JS) | 02/02/2017 |
+| Learn to Code HTML & CSS | [link](http://learn.shayhowe.com/html-css/) | 02/21/2017 |
+| Project: Portfolio from the frontend section of FCC | | 03/11/2017 |
+| **YDKJS: Types & Grammar** | [link](https://github.com/getify/You-Dont-Know-JS) | 02/06/2017 |
+| **YDKJS: Async & Performance** | [link](https://github.com/getify/You-Dont-Know-JS) | 04/13/2017 |
+| **YDKJS: ES6 & Beyond** | [link](https://github.com/getify/You-Dont-Know-JS) | 4/21/2017 |
+| **CS50 (on edX)** | [link](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x) | (except project) |
+| Learn to Code Advanced HTML & CSS | [link](http://learn.shayhowe.com/advanced-html-css/) | 5/25/2017 |
+| Clone [this](https://creativemarket.com/ikonome/686585-Material-Resume-Blue/screenshots/#screenshot2) online resume template | | 5/27/2017 |
+| Read "Project Specification Documents" | [link](http://www.pixelearth.net/pages/project-specification) | 5/4/2017 |
+| Effective Thinking Through Mathematics | [link](https://www.edx.org/course/effective-thinking-through-mathematics-utaustinx-ut-9-01x-0) | 5/11/2017 |
 | Setting Up ES6 | [link](https://leanpub.com/setting-up-es6/read) | |
 | **JavaScript Allongé, the "Six" Edition** | [link](https://leanpub.com/javascriptallongesix) | |
 | Getting Sassy with CSS | [link](http://www.sassshop.com/#/) | |
