@@ -1,5 +1,17 @@
 # Progress Log
 
+## Friday, 26 May
+
+**Today's Progress**
+* Started clone of material resume
+* Continued *JavaScript Allongé* (through "OOP")
+
+**Thoughts**:
+JavaScript is fun. CSS is largely a time-suck. Which isn't to say that it *isn't* fun (sometimes it is)... but it's not like actual programming. I'm *trying* to get better at grouping and reusing styles, but I'm not sure how well I'm succeeding - I haven't done the actual resume content yet (just the colored bands at the top and bottom), and I'm already at 200 lines of code. I was hoping to finish today, but it looks like by Monday might be a safer bet.
+
+**Link(s) to work**:
+Resume clone so far: [here](../clones/material-resume/index.html). And practice code from JS Allongé: [here](../js-allonge/getwith.js) and [here](../js-allonge/deep-mapping.js).
+
 ## Thursday, 25 May
 
 **Today's Progress**
@@ -7,7 +19,7 @@
 * Solved "Bender - Episode 1" from *Codingame Classic Puzzles - Medium*
 * Continued *Javascript Allonge* (up to "getWith")
 
-**Thoughts**: I had tried (unsuccessfully) to complete the Bender puzzle in early March. Today it was... not *easy*, exactly... but fairly straightforward. Which probably means I'm learning! I know that I'm improving in some respects - learning to use Node and Express and MongoDb... but I haven't noticed a major improvement in my skills with "just" JavaScript. So it was kind of cool to see that the improvement is actually happening. 
+**Thoughts**: I had tried (unsuccessfully) to complete the Bender puzzle in early March. Today it was... not *easy*, exactly... but fairly straightforward. Which probably means I'm learning! I know that I'm improving in some respects - learning to use Node and Express and MongoDb... but I haven't noticed a major improvement in my skills with "just" JavaScript. So it was kind of cool to see that the improvement is actually happening.
 
 **Link(s) to work**:
 Solution to the [Bender Puzzle](../codingame/bender.js).
