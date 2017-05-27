@@ -32,8 +32,8 @@ footer {
 }
 
 .block {
-  padding-left: 10%;
-  padding-right: 10%;
+  padding-left: 8%;
+  padding-right: 8%;
 }
 
 .content {
@@ -51,7 +51,7 @@ footer {
   TEXT STYLING
 ===== */
 
-h1, h2, h3, h4, p, li {
+h1, h2, h3, h4, p, li, div {
   font-family: 'Roboto Condensed', sans-serif;
   font-weight: 300;
   line-height: 1.2;
@@ -203,14 +203,15 @@ li.active {
   background: white;
   box-shadow: 4px 0px 4px -3px #707070;
   z-index: 12;
-  padding-left: 10%;
-  padding-right: 5%;
+  padding-left: 8%;
+  padding-right: 3%;
 }
 
 .right {
   width: 60%;
-  padding-right: 10%;
-  padding-left: 5%;
+  padding-right: 8%;
+  padding-left: 3%;
+  vertical-align: top;
 }
 
 .resume-body section {
@@ -235,6 +236,10 @@ li.active {
 .list-items span:first-child {
   font-weight: 700;
   width: 120px;
+}
+
+.list-items span:last-child {
+  min-width: 160px;
 }
 
 /* software */
@@ -399,4 +404,112 @@ span[class^='meter'] {
   background: #0069c0;
   border-radius: 9px;
   border: 3px solid #64b5f6;
+}
+
+.skills {
+  text-align: center;
+}
+
+.skills h3 {
+  text-align: left;
+}
+
+.skills section {
+  height: 100px;
+  width: 100px;
+  margin: 2px;
+  background: #cfcfcf;
+  border-radius: 50%;
+  display: inline-block;
+  position: relative;
+}
+
+div[class^="ring"] {
+  height: 100px;
+  width: 50px;
+  border-radius: 50px 0 0 50px;
+  background: #2196f3;
+  display: block;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+div[class^="ring"] div {
+  z-index: 30;
+  position: absolute;
+  height: 82px;
+  width: 82px;
+  border-radius: 41px;
+  top: 9px;
+  left: 9px;
+  background: #efefef;
+  font-weight: 400;
+  font-size: 15px;
+  padding-top: 30px;
+}
+
+div[class$="design"]:after {
+  content: "";
+  position: absolute;
+  height: 100px;
+  width: 51px;
+  border-radius: 50px 0 0 50px;
+  background: #2196f3;
+  top: 0;
+  left: 0;
+  transform-origin: 50px 50px;
+  transform: rotate(-180deg);
+}
+
+div[class$="concepts"]:after {
+  content: "";
+  position: absolute;
+  height: 100px;
+  width: 51px;
+  border-radius: 50px 0 0 50px;
+  background: #2196f3;
+  top: 0;
+  left: 0;
+  transform-origin: 50px 50px;
+  transform: rotate(-155deg);
+}
+
+div[class$="art"]:after {
+  content: "";
+  position: absolute;
+  height: 100px;
+  width: 51px;
+  border-radius: 50px 0 0 50px;
+  background: #2196f3;
+  top: 0;
+  left: 0;
+  transform-origin: 50px 50px;
+  transform: rotate(-118deg);
+}
+
+div[class$="teamwork"]:after {
+  content: "";
+  position: absolute;
+  height: 100px;
+  width: 51px;
+  border-radius: 50px 0 0 50px;
+  background: #2196f3;
+  top: 0;
+  left: 0;
+  transform-origin: 50px 50px;
+  transform: rotate(-70deg);
+}
+
+div[class$="management"]:after {
+  content: "";
+  position: absolute;
+  height: 100px;
+  width: 51px;
+  border-radius: 50px 0 0 50px;
+  background: #2196f3;
+  top: 0;
+  left: 0;
+  transform-origin: 50px 50px;
+  transform: rotate(-30deg);
 }
