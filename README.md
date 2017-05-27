@@ -1,6 +1,6 @@
 ## The Goal
 
-... is basically to learn programming, emphasis on web development (yeah: I'll narrow it down further once I have a little bit more knowledge under my belt). I'm starting out following P1xt's [Guide: Get Job ready with 1 FCC cert, 3 projects, 2 courses, and 10 books](https://forum.freecodecamp.com/t/computer-guide-get-job-ready-with-1-fcc-cert-3-projects-2-courses-and-10-books/64027)... but I'm also planning to pull in projects/steps from P1xt's other two guides [here](https://forum.freecodecamp.com/t/computer-guide-computer-science-and-web-development-comprehensive-path/64470) and [here](https://forum.freecodecamp.com/t/computer-guide-web-development-with-computer-science-foundations-comprehensive-path/64516), and may end up switching over to one or the other entirely, depending on how things go.
+... is basically to learn programming, emphasis on web development (yeah: I'll narrow it down further once I have a little bit more knowledge under my belt). I'm starting out following P1xt's [Guide: Get Job ready with 1 FCC cert, 3 projects, 2 courses, and 10 books](https://github.com/P1xt/p1xt-guides/blob/master/job-ready.md)... but I'm also planning to pull in projects/steps from P1xt's [more comprehensive guides](https://github.com/P1xt/p1xt-guides), and may end up switching over to one of those entirely, depending on how things go.
 
 ## This Repository
 
@@ -14,19 +14,19 @@ Note: Sections are roughly equivalent to the tiers P1xt's outlines. Courses/Book
 
 | Course/Book/Project | Link | Completed |
 | ------------------- | ---- | --------- |
-| **YDKJS: Up & Going** | [link](https://github.com/getify/You-Dont-Know-JS) | 01/18/17 |
-| **YDKJS: Scope & Closures** | [link](https://github.com/getify/You-Dont-Know-JS) | 01/20/17 |
-| **YDKJS: this & Object Prototypes** | [link](https://github.com/getify/You-Dont-Know-JS) | 02/02/17 |
-| Learn to Code HTML & CSS | [link](http://learn.shayhowe.com/html-css/) | 02/21/17 |
-| Project: Portfolio from the frontend section of FCC | | 03/11/17 |
-| **YDKJS: Types & Grammar** | [link](https://github.com/getify/You-Dont-Know-JS) | 02/06/17 |
-| **YDKJS: Async & Performance** | [link](https://github.com/getify/You-Dont-Know-JS) | 04/13/17 |
-| **YDKJS: ES6 & Beyond** | [link](https://github.com/getify/You-Dont-Know-JS) | 4/21/17 |
-| **CS50 (on edX)** | [link](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x) |  |
-| Learn to Code Advanced HTML & CSS | [link](http://learn.shayhowe.com/advanced-html-css/) | 5/25/17 |
-| Clone [this](https://creativemarket.com/ikonome/686585-Material-Resume-Blue/screenshots/#screenshot2) online resume template | | 5/27/17 |
-| Read "Project Specification Documents" | [link](http://www.pixelearth.net/pages/project-specification) | 5/4/17 |
-| Effective Thinking Through Mathematics | [link](https://www.edx.org/course/effective-thinking-through-mathematics-utaustinx-ut-9-01x-0) | 5/11/17 |
+| **YDKJS: Up & Going** | [link](https://github.com/getify/You-Dont-Know-JS) | &#10003; 01/18/2017 |
+| **YDKJS: Scope & Closures** | [link](https://github.com/getify/You-Dont-Know-JS) | &#10003; 01/20/2017 |
+| **YDKJS: this & Object Prototypes** | [link](https://github.com/getify/You-Dont-Know-JS) | &#10003; 02/02/2017 |
+| Learn to Code HTML & CSS | [link](http://learn.shayhowe.com/html-css/) | &#10003; 02/21/2017 |
+| Project: Portfolio from the frontend section of FCC | | &#10003; 03/11/2017 |
+| **YDKJS: Types & Grammar** | [link](https://github.com/getify/You-Dont-Know-JS) | &#10003; 02/06/2017 |
+| **YDKJS: Async & Performance** | [link](https://github.com/getify/You-Dont-Know-JS) | &#10003; 04/13/2017 |
+| **YDKJS: ES6 & Beyond** | [link](https://github.com/getify/You-Dont-Know-JS) | &#10003; 4/21/2017 |
+| **CS50 (on edX)** | [link](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x) | &#10003; (except project) |
+| Learn to Code Advanced HTML & CSS | [link](http://learn.shayhowe.com/advanced-html-css/) | &#10003; 5/25/2017 |
+| Clone [this](https://creativemarket.com/ikonome/686585-Material-Resume-Blue/screenshots/#screenshot2) online resume template | | &#10003; 5/27/2017 |
+| Read "Project Specification Documents" | [link](http://www.pixelearth.net/pages/project-specification) | &#10003; 5/4/2017 |
+| Effective Thinking Through Mathematics | [link](https://www.edx.org/course/effective-thinking-through-mathematics-utaustinx-ut-9-01x-0) | &#10003; 5/11/2017 |
 | Setting Up ES6 | [link](https://leanpub.com/setting-up-es6/read) | |
 | **JavaScript Allongé, the "Six" Edition** | [link](https://leanpub.com/javascriptallongesix) | |
 | Getting Sassy with CSS | [link](http://www.sassshop.com/#/) | |
