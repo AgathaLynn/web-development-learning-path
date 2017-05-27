@@ -179,9 +179,9 @@ li.active {
 
 .resume-body {
   box-shadow: 0px -4px 4px -3px #373737;
+  background: #efefef;
   z-index: 10;
   position: relative;
-  height: 1000px;
 }
 
 .panel {
@@ -199,7 +199,6 @@ li.active {
 
 .right {
   width: 60%;
-  background: #efefef;
   padding-right: 10%;
   padding-left: 5%;
 }
@@ -314,4 +313,27 @@ span[class^='meter'] {
   height: 15px;
   overflow: hidden;
   width: 50%;
+}
+
+.hobbies {
+  text-align: justify;
+}
+
+.hobbies .group {
+  width: 33%;
+  text-align: center;
+  padding-bottom: 15px;
+}
+
+.hobbies .icon {
+  width: 80px;
+  height: 80px;
+  background: #64b5f6;
+  color: white;
+  padding-top: 13px;
+  font-size: 53px;
+}
+
+.hobbies p {
+  font-weight: 400;
 }
