@@ -4,6 +4,7 @@
 
 **Today's Progress**
 * Completed material resume clone
+* Worked on *JavaScript Allongé* reading (Up to "Generating Iterables")
 
 **Thoughts**:
 For the first time *ever*, I have actually thought to myself, "Oh, wouldn't it be nice to have Sass for this project. It would probably even be worth the headache of installing and setting up the darn thing." This might be because, at this point, I've installed and learned to use enough new tools that I'm not particularly scared of it anymore. Or it might be because there were places where it *really* would have come in handy.
@@ -11,7 +12,9 @@ For the first time *ever*, I have actually thought to myself, "Oh, wouldn't it b
 This was one of the projects that I kind of forced myself to do, in the interest of being thorough. But I'm glad I did. I played with a lot of the new "tricks" that I learned in Shay Howe's lessons. I used pseudo-elements (which aren't even that difficult, once you know how they work) and complex selectors. I'm also thinking that it might be worth coming back to this project once I've learned Sass, and refactoring my CSS. (Flexbox I'll leave for some other project.)
 
 **Link(s) to work**:
-The resume clone is on GitHub [here](../clones/material-resume). I'm not going to give it its own webpage (it's not worth that) - but I'll maybe down the road set up a page for my learning progress, and link to it from there. *Maybe*. 
+The resume clone is on GitHub [here](../clones/material-resume). I'm not going to give it its own webpage (it's not worth that) - but I'll maybe down the road set up a page for my learning progress, and link to it from there. *Maybe*.
+
+Practice code from *JavaScript Allongé* reading [here](../js-allonge/it-filter.js)
 
 ## Friday, 26 May
 
