@@ -1,5 +1,17 @@
 # Progress Log
 
+## Sunday, 28 May
+
+**Today's Progress**
+* Solved "Network Cabling" from *Codingame Classic Puzzles - Medium*
+* Continued *JavaScript Allongé* (up to "Lazy and Eager Collections")
+
+**Thoughts**:
+This puzzle had me actually thinking about math. I ended up solving the puzzle using a modification of a binary search algorithm. I can find local extrema that way -- but I still had to convince myself that any local minimum would also be an absolute minimum. Maybe I should start doing daily math practice!
+
+**Link(s) to work**:
+My solution to the Network Cabling puzzle: [here](../codingame/network-cabling.js). My practice code from *JavaScript Allongé*: [here](../js-allonge/generating-iterables.js)
+
 ## Saturday, 27 May
 
 **Today's Progress**
