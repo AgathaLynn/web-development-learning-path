@@ -25,9 +25,9 @@ Note: Sections are roughly equivalent to the tiers P1xt's outlines. Courses/Book
 | **CS50 (on edX)** | [link](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x) | (except project) |
 | Learn to Code Advanced HTML & CSS | [link](http://learn.shayhowe.com/advanced-html-css/) | 05/25/2017 |
 | Clone [this](https://creativemarket.com/ikonome/686585-Material-Resume-Blue/screenshots/#screenshot2) online resume template | | 05/27/2017 |
-| Read "Project Specification Documents" | [link](http://www.pixelearth.net/pages/project-specification) | 05/4/2017 |
+| Read "Project Specification Documents" | [link](http://www.pixelearth.net/pages/project-specification) | 05/04/2017 |
 | Effective Thinking Through Mathematics | [link](https://www.edx.org/course/effective-thinking-through-mathematics-utaustinx-ut-9-01x-0) | 05/11/2017 |
-| Setting Up ES6 | [link](https://leanpub.com/setting-up-es6/read) | |
+| Setting Up ES6 | [link](https://leanpub.com/setting-up-es6/read) | 05/30/2017 |
 | **JavaScript Allongé, the "Six" Edition** | [link](https://leanpub.com/javascriptallongesix) | |
 | Getting Sassy with CSS | [link](http://www.sassshop.com/#/) | |
 | Project: Build online Towers of Hanoi solver | | |

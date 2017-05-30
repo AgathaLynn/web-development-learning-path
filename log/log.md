@@ -1,5 +1,32 @@
 # Progress Log
 
+## Tuesday, 30 May
+
+**Today's Progress**
+* Continued *JavaScript Allongé* (up to "Constructors and Classes")
+* Skimmed the rest of *Setting Up ES6* (and figured out how to get Babel running on my computer)
+* Figured out how to use gulp to turn .scss and .sass files into .css files
+* Started SassShop tutorial (sections I - III)
+
+**Thoughts**:
+Regarding *Setting UP ES6* - a lot of the material was going over my head, and it seemed prudent to just get a general sense of the rest of the material, try to use Babel on a couple of projects, and possibly refer back to this source later. I'm at the point where I'm pretty sure that I can use Babel successfully in a project (I'll be testing that soon - very, very soon). And we'll go from there.
+
+Sass... actually has the potential to make CSS much less annoying. I got frustrated trying to install Ruby and Sass directly, so I got the gulp version working instead. Probably not a bad thing, because gulp has been on my list of things to figure out anyway.
+
+**Link(s) to work**:
+Project folder for playing around with Babel: [here](../setting-up-es6). I'm not going to save my work from the SassShop tutorial.
+
+## Monday, 29 May
+
+**Today's Progress**
+* Continued *JavaScript Allongé* (up to "Delegation via Prototypes")
+
+**Thoughts**:
+Not much... except that I'll probably be coming back to this section and rereading it once I'm actually working with objects more.
+
+**Link(s) to work**:
+None today
+
 ## Sunday, 28 May
 
 **Today's Progress**

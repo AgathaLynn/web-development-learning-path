@@ -1,0 +1,15 @@
+{
+  "name": "setting-up-es6",
+  "version": "1.0.0",
+  "description": "playground for babel",
+  "main": "index.js",
+  "scripts": {
+    "build": "babel src -d dist"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "babel-cli": "^6.24.1",
+    "babel-preset-es2015": "^6.24.1"
+  }
+}
