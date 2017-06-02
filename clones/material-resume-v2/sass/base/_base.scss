@@ -1,0 +1,375 @@
+/* =====
+  GENERAL STYLES
+=====*/
+* {
+  box-sizing: border-box;
+}
+
+body {
+  background: $off-black;
+}
+
+.resume {
+  width: 100%;
+  max-width: 1200px;
+  margin: 0 auto;
+  box-shadow: 0px 0px 5px 1px black;
+}
+
+header, footer {
+  background: $blue-med;
+  color: $white;
+}
+
+header {
+  position: relative;
+  box-shadow: 0px 4px 4px -3px $off-black;
+  z-index: 10;
+}
+
+footer {
+  margin-top: -1px; /* Body was peeking through. Not sure why it wasn't flush */
+}
+
+.block {
+  padding-left: 8%;
+  padding-right: 8%;
+}
+
+.content {
+  padding-top: 30px;
+  padding-bottom: 30px;
+}
+
+.group {
+  display: inline-block;
+  vertical-align: middle;
+  position: relative;
+}
+
+/* =====
+  TEXT STYLING
+===== */
+
+h1, h2, h3, h4, p, li, div {
+  font-family: 'Roboto Condensed', sans-serif;
+  font-weight: 300;
+  line-height: 1.2;
+}
+
+p, li {
+  font-size: 20px;
+}
+
+h1 {
+  font-size: 50px;
+}
+
+h2 {
+  font-size: 30px;
+}
+
+h3 {
+  font-size: 26px;
+  font-weight: 400;
+  color: $blue-med;
+  padding: 15px 0;
+  text-align: left;
+}
+
+h4 {
+  font-weight: 700;
+  padding-bottom: 10px;
+  font-size: 18px;
+}
+
+h4 span {
+  float: right;
+}
+
+
+/* =====
+  NAVIGATION & CONTACT INFO (top and bottom bands of page)
+===== */
+
+nav, .contact {
+  background: $blue-dark;
+}
+
+nav li {
+  display: inline-block;
+  padding: 15px;
+  margin-left: -15px; /* pulls nav menu flush with left edge of content */
+}
+
+li.active {
+  border-bottom: 3px solid $white;
+}
+
+.contact {
+  padding-top: 15px;
+  padding-bottom: 15px;
+}
+
+.contact p {
+  font-size: 18px;
+}
+
+.contact i {
+  font-size: 5px;
+  vertical-align: middle;
+  padding: 0 5px;
+}
+
+.contact p:first-child {
+  width: 70%;
+}
+
+.contact p:last-child {
+  width: 30%;
+  text-align: right;
+}
+
+/* =====
+  HEADER AND FOOTER (second and second-last sections on page)
+===== */
+
+.title {
+  width: 60%;
+}
+
+.img {
+  width: 40%;
+  text-align: right;
+}
+
+.img img {
+  border-radius: 50%;
+}
+
+.links {
+  text-align: center;
+}
+
+.links .group {
+  padding-left: 15px;
+  padding-right: 15px;
+}
+
+.icon {
+  background: $blue-dark;
+  height: 95px;
+  width: 95px;
+  border-radius: 50%;
+  font-size: 35px;
+  padding-top: 30px;
+  margin-bottom: 10px;
+}
+
+.icon,
+.icon ~ p {
+  text-align: center;
+}
+
+.icon ~ p {
+  font-size: 16px;
+}
+
+/* =====
+  STATEMENT OF PURPOSE
+===== */
+
+.statement {
+  background: $gray-dark;
+  color: $white;
+}
+
+/* =====
+  MAIN CONTENT
+===== */
+
+.resume-body {
+  box-shadow: 0px -4px 4px -3px $off-black;
+  background: $gray-light;
+  z-index: 10;
+  position: relative;
+}
+
+.panel {
+  height: 100%;
+}
+
+.left {
+  width: 40%;
+  background: $white;
+  box-shadow: 4px 0px 4px -3px $gray-dark;
+  z-index: 12;
+  padding-left: 8%;
+  padding-right: 3%;
+}
+
+.right {
+  width: 60%;
+  padding-right: 8%;
+  padding-left: 3%;
+  vertical-align: top;
+}
+
+.resume-body section {
+  padding: 15px 0;
+}
+
+/* =====
+  SECTIONS
+===== */
+
+/* characteristics */
+.list-items li {
+  display: block;
+  border-bottom: 2px solid $gray-med;
+}
+
+.list-items span {
+  display: inline-block;
+  padding: 10px 0;
+
+  &:first-child {
+    font-weight: 700;
+    width: 120px;
+  }
+
+  &:last-child {
+    min-width: 160px;
+  }
+}
+
+.hobbies {
+  text-align: center;
+}
+
+.hobbies .group {
+  width: 31%;
+  min-width: 85px;
+  text-align: center;
+  vertical-align: top;
+  padding-bottom: 15px;
+  margin: 0 1% 0 1%;
+}
+
+.hobbies .icon {
+  width: 80px;
+  height: 80px;
+  background: $blue-light;
+  color: $white;
+  padding-top: 13px;
+  font-size: 53px;
+}
+
+.hobbies p {
+  font-weight: 400;
+}
+
+.container {
+  display: block;
+  border-left: 2px solid $blue-med;
+  margin-left: 15px;
+  padding-left: 30px;
+  margin-bottom: 15px;
+  margin-top: 15px;
+}
+
+.container section {
+  padding-top: 20px;
+  padding-bottom: 10px;
+  position: relative;
+  border-bottom: 1px solid $gray-med;
+}
+
+.container section:first-child {
+  padding-top: 0;
+}
+
+.history-item .dot {
+  height: 30px;
+  width: 30px;
+  position: absolute;
+  top: 13px;
+  left: -45px;
+  background: rgba(100, 181, 246, .6);
+  border-radius: 15px;
+}
+
+.history-item:first-child .dot {
+  top: -7px;
+}
+
+.dot:after {
+  content: "";
+  position: absolute;
+  height: 12px;
+  width: 12px;
+  top: 6px;
+  left: 6px;
+  background: $blue-dark;
+  border-radius: 9px;
+  border: 3px solid $blue-light;
+}
+
+.skills {
+  text-align: center;
+}
+
+.skills section {
+  height: 100px;
+  width: 100px;
+  margin: 2px;
+  background: $gray-med;
+  border-radius: 50%;
+  display: inline-block;
+  position: relative;
+}
+
+div[class^="ring"] {
+  height: 100px;
+  width: 50px;
+  border-radius: 50px 0 0 50px;
+  background: $blue-med;
+  display: block;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+div[class^="ring"] div {
+  z-index: 30;
+  position: absolute;
+  height: 82px;
+  width: 82px;
+  border-radius: 41px;
+  top: 9px;
+  left: 9px;
+  background: $gray-light;
+  font-weight: 400;
+  font-size: 15px;
+  padding-top: 30px;
+}
+
+div[class$="design"]:after {
+  @include ring-fill(-180);
+}
+
+div[class$="concepts"]:after {
+  @include ring-fill(-155);
+}
+
+div[class$="art"]:after {
+  @include ring-fill(-118);
+}
+
+div[class$="teamwork"]:after {
+  @include ring-fill(-70);
+}
+
+div[class$="management"]:after {
+  @include ring-fill(-30)
+}

@@ -1,0 +1,24 @@
+// mixin to fill meters - I'd almost rather put this with the meters module?
+@mixin meter-fill($number) {
+  content: "";
+  background: $blue-med;
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 15px;
+  overflow: hidden;
+  width: percentage($number / 100);
+}
+
+@mixin ring-fill($number) {
+  content: "";
+  position: absolute;
+  height: 100px;
+  width: 51px;
+  border-radius: 50px 0 0 50px;
+  background: $blue-med;
+  top: 0;
+  left: 0;
+  transform-origin: 50px 50px;
+  transform: rotate($number + 0deg);
+}
