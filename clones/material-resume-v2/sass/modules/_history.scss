@@ -1,0 +1,45 @@
+.container {
+  display: block;
+  border-left: 2px solid $blue-med;
+  margin-left: 15px;
+  padding-left: 30px;
+  margin-bottom: 15px;
+  margin-top: 15px;
+}
+
+.container section {
+  padding-top: 20px;
+  padding-bottom: 10px;
+  position: relative;
+  border-bottom: 1px solid $gray-med;
+}
+
+.container section:first-child {
+  padding-top: 0;
+}
+
+.history-item .dot {
+  @include circle(30px);
+  position: absolute;
+  top: 13px;
+  left: -45px;
+  background: rgba($blue-light, .6);
+
+  &:after {
+    @include circle(12px);
+    content: "";
+    position: absolute;
+    top: 6px;
+    left: 6px;
+    background: $blue-dark;
+    border: 3px solid $blue-light;
+  }
+}
+
+.history-item:first-child .dot {
+  top: -7px;
+}
+
+.history-item .date {
+  float: right;
+}

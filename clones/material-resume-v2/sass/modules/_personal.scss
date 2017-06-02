@@ -1,0 +1,19 @@
+/* characteristics */
+.list-items li {
+  display: block;
+  border-bottom: 2px solid $gray-med;
+}
+
+.list-items span {
+  display: inline-block;
+  padding: 10px 0;
+
+  &:first-child {
+    font-weight: 700;
+    width: 120px;
+  }
+
+  &:last-child {
+    min-width: 160px;
+  }
+}

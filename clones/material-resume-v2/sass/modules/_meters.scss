@@ -22,8 +22,8 @@
 }
 
 // fill meter
-@each $value in 98, 90, 83, 70, 65, 50 {
-  .meter-#{$value}:after {
-    @include meter-fill($value)
+@each $category, $percentage in $meter-map {
+  .meter-#{$category}:after {
+    @include meter-fill($percentage);
   }
 }

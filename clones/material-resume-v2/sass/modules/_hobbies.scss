@@ -1,0 +1,25 @@
+.hobbies {
+  text-align: center;
+
+  .group {
+    width: 31%;
+    min-width: 85px;
+    text-align: center;
+    vertical-align: top;
+    padding-bottom: 15px;
+    margin: 0 1% 0 1%;
+  }
+
+  .hobby-icon {
+    @include circle(80px);
+    margin-bottom: 10px;
+    background: $blue-light;
+    color: $white;
+    padding-top: 13px;
+    font-size: 53px;
+  }
+
+  p {
+    font-weight: 400;
+  }
+}

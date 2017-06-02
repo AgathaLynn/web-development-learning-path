@@ -9,3 +9,21 @@ $gray-med: #cfcfcf;
 $gray-light: #efefef;
 
 $white: white;
+
+// skill level maps
+$meter-map: (
+  indesign: 98%,
+  illustrator: 90%,
+  photoshop: 83%,
+  sketch: 70%,
+  html5: 65%,
+  css3: 50%
+);
+
+$rings-map: (
+  design: -180,
+  concepts: -155,
+  art: -118,
+  teamwork: -70,
+  management: -30
+);

@@ -1,0 +1,43 @@
+.skills {
+  text-align: center;
+}
+
+.ring {
+  @include circle(100px);
+  margin: 2px;
+  background: $gray-med;
+  display: inline-block;
+  position: relative;
+
+  .fill {
+    height: 100px;
+    width: 50px;
+    border-radius: 50px 0 0 50px;
+    background: $blue-med;
+    display: block;
+    position: absolute;
+    top: 0;
+    left: 0;
+  }
+
+  .inner {
+    @include circle(82px);
+    z-index: 30;
+    position: absolute;
+    top: 9px;
+    left: 9px;
+    background: $gray-light;
+    font-weight: 400;
+    font-size: 15px;
+    padding-top: 30px;
+  }
+}
+
+@each $category, $level in $rings-map {
+  .ring-#{$category} {
+
+    &:after {
+      @include ring-fill($level);
+    }
+  }
+}

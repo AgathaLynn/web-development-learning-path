@@ -1,0 +1,51 @@
+footer {
+  @extend %blue-background;
+  margin-top: -1px; /* Body was peeking through. Not sure why it wasn't flush */
+}
+
+.social {
+  text-align: center;
+
+  .group {
+    padding-left: 15px;
+    padding-right: 15px;
+  }
+}
+
+.media-icon {
+  @include circle(95px);
+  background: $blue-dark;
+  font-size: 35px;
+  padding-top: 30px;
+  margin-bottom: 10px;
+}
+
+.media-icon ~ p {
+  text-align: center;
+  font-size: 16px;
+}
+
+.contact {
+  background: $blue-dark;
+  padding-top: 15px;
+  padding-bottom: 15px;
+
+  p {
+    font-size: 18px;
+
+    &:first-child {
+      width: 70%;
+    }
+
+    &:last-child {
+      width: 30%;
+      text-align: right;
+    }
+  }
+
+  i {
+    font-size: 5px;
+    vertical-align: middle;
+    padding: 0 5px;
+  }
+}

@@ -1,5 +1,5 @@
-// mixin to fill meters - I'd almost rather put this with the meters module?
-@mixin meter-fill($number) {
+// mixins to fill meters and rings
+@mixin meter-fill($percent) {
   content: "";
   background: $blue-med;
   position: absolute;
@@ -7,7 +7,7 @@
   left: 0;
   height: 15px;
   overflow: hidden;
-  width: percentage($number / 100);
+  width: $percent;
 }
 
 @mixin ring-fill($number) {
@@ -21,4 +21,11 @@
   left: 0;
   transform-origin: 50px 50px;
   transform: rotate($number + 0deg);
+}
+
+@mixin circle($size) {
+  height: $size;
+  width: $size;
+  border-radius: 50%;
+  text-align: center;
 }

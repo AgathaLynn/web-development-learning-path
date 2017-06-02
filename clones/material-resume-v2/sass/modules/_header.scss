@@ -1,0 +1,39 @@
+header {
+  @extend %blue-background;
+  position: relative;
+  box-shadow: 0px 4px 4px -3px $off-black;
+  z-index: 10;
+}
+
+nav {
+  background: $blue-dark;
+
+  li {
+    display: inline-block;
+    padding: 15px;
+    margin-left: -15px; /* pulls menu flush with edge of content */
+
+    &.active {
+      border-bottom: 3px solid $white;
+    }
+  }
+}
+
+.title {
+  width: 60%;
+}
+
+.img {
+  width: 40%;
+  text-align: right;
+  border-radius: 50%;
+
+  img {
+    border-radius: 50%;
+  }
+}
+
+.statement {
+  background: $gray-dark;
+  color: $white;
+}
