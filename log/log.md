@@ -1,12 +1,28 @@
 # Progress Log
 
+## Thursday, 2 June
+
+**Today's Progress**
+* Finished SassShop tutorial
+* Created "version 2" of resume clone using Sass
+* Continued *Javascript Allongé* (Up to 'Recipes with Contructors and Classes')
+
+**Thoughts**:
+
+**Link(s) to work**:
+Here's the code for [version 2](../clones_and_projects/material-resume-v2) of the resume clone. And here's [practice code](../js-allonge/new-stack.js) from the *JavaScript Allongé* reading.
+
+## Wednesday, 31 May & Thursday, 1 June
+
+No progress - Other stuff took precedence
+
 ## Tuesday, 30 May
 
 **Today's Progress**
 * Continued *JavaScript Allongé* (up to "Constructors and Classes")
 * Skimmed the rest of *Setting Up ES6* (and figured out how to get Babel running on my computer)
 * Figured out how to use gulp to turn .scss and .sass files into .css files
-* Started SassShop tutorial (sections I - III)
+* Started SassShop tutorial (sections I - IV, up to [4-34](http://www.sassshop.com/#/4/34))
 
 **Thoughts**:
 Regarding *Setting UP ES6* - a lot of the material was going over my head, and it seemed prudent to just get a general sense of the rest of the material, try to use Babel on a couple of projects, and possibly refer back to this source later. I'm at the point where I'm pretty sure that I can use Babel successfully in a project (I'll be testing that soon - very, very soon). And we'll go from there.
@@ -51,7 +67,7 @@ For the first time *ever*, I have actually thought to myself, "Oh, wouldn't it b
 This was one of the projects that I kind of forced myself to do, in the interest of being thorough. But I'm glad I did. I played with a lot of the new "tricks" that I learned in Shay Howe's lessons. I used pseudo-elements (which aren't even that difficult, once you know how they work) and complex selectors. I'm also thinking that it might be worth coming back to this project once I've learned Sass, and refactoring my CSS. (Flexbox I'll leave for some other project.)
 
 **Link(s) to work**:
-The resume clone is on GitHub [here](../clones/material-resume). I'm not going to give it its own webpage (it's not worth that) - but I'll maybe down the road set up a page for my learning progress, and link to it from there. *Maybe*.
+The resume clone is on GitHub [here](../clones_and_projects/material-resume). I'm not going to give it its own webpage (it's not worth that) - but I'll maybe down the road set up a page for my learning progress, and link to it from there. *Maybe*.
 
 Practice code from *JavaScript Allongé* reading [here](../js-allonge/it-filter.js)
 
@@ -65,7 +81,7 @@ Practice code from *JavaScript Allongé* reading [here](../js-allonge/it-filter.
 JavaScript is fun. CSS is largely a time-suck. Which isn't to say that it *isn't* fun (sometimes it is)... but it's not like actual programming. I'm *trying* to get better at grouping and reusing styles, but I'm not sure how well I'm succeeding - I haven't done the actual resume content yet (just the colored bands at the top and bottom), and I'm already at 200 lines of code. I was hoping to finish today, but it looks like by Monday might be a safer bet.
 
 **Link(s) to work**:
-Resume clone so far: [here](../clones/material-resume/index.html). And practice code from JS Allongé: [here](../js-allonge/getwith.js) and [here](../js-allonge/deep-mapping.js).
+Resume clone so far: [here](../clones_and_projects/material-resume/index.html). And practice code from JS Allongé: [here](../js-allonge/getwith.js) and [here](../js-allonge/deep-mapping.js).
 
 ## Thursday, 25 May
 
