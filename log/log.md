@@ -5,12 +5,16 @@
 **Today's Progress**
 * Finished SassShop tutorial
 * Created "version 2" of resume clone using Sass
-* Continued *Javascript Allongé* (Up to 'Recipes with Contructors and Classes')
+* Continued *Javascript Allongé* (Up to 'Recipes with Constructors and Classes')
+* Started videos for MongoDB course
+* Started working on Towers of Hanoi puzzle
 
-**Thoughts**:
+**Thoughts**: Going back and using Sass on the resume clone was a good idea - I got a bit more experience with mixins and stuff... although right now it seems like the main advantage to Sass is actually the ability to spread CSS out into different files.
+
+I have a generator function that solves the Towers of Hanoi puzzle, so I'll be able to pick up tomorrow (or whenever) with the "visible" portion of the project.
 
 **Link(s) to work**:
-Here's the code for [version 2](../clones_and_projects/material-resume-v2) of the resume clone. And here's [practice code](../js-allonge/new-stack.js) from the *JavaScript Allongé* reading.
+Here's the code for [version 2](../clones_and_projects/material-resume-v2) of the resume clone. And here's [practice code](../js-allonge/new-stack.js) from the *JavaScript Allongé* reading. First two iterations of the Towers of Hanoi solver are [here](../clones_and_projects/hanoi/src/game0.js) and [here](../clones_and_projects/hanoi/src/game1.js).
 
 ## Wednesday, 31 May & Thursday, 1 June
 
