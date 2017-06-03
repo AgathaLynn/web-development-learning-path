@@ -29,7 +29,7 @@ Note: Sections are roughly equivalent to the tiers P1xt's outlines. Courses/Book
 | Effective Thinking Through Mathematics | [link](https://www.edx.org/course/effective-thinking-through-mathematics-utaustinx-ut-9-01x-0) | 05/11/2017 |
 | Setting Up ES6 | [link](https://leanpub.com/setting-up-es6/read) | 05/30/2017 |
 | **JavaScript Allongé, the "Six" Edition** | [link](https://leanpub.com/javascriptallongesix) | |
-| Getting Sassy with CSS | [link](http://www.sassshop.com/#/) | |
+| Getting Sassy with CSS | [link](http://www.sassshop.com/#/) | 06/02/2017 |
 | Project: Build online Towers of Hanoi solver | | |
 | ~ *Project: Build a CSS template inspired by one of [these](https://forum.freecodecamp.com/clicks/track?url=http%3A%2F%2Fwww.free-css.com%2Ffree-css-templates&post_id=118073&topic_id=64516)* | |
 
