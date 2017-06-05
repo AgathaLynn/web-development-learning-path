@@ -1,6 +1,28 @@
 # Progress Log
 
-## Thursday, 2 June
+## Sunday, 4 June
+
+**Today's Progress**
+* Continued *JavaScript Allongé* (up to "Con Panna: Composing Class Behaviour")
+
+**Thoughts**:
+I like this book.
+
+**Link(s) to work**:
+Practice code from reading: ['green' functions](../js-allonge/green.js) & [dictionary](../js-allonge/dictionary.js)
+
+## Saturday, 3 June
+
+**Today's Progress**
+* Continued working on Towers of Hanoi puzzle
+
+**Thoughts**:
+The game logic is done (I made some slight tweaks to Friday's work, but that's it). Now I have to figure out the animation...
+
+**Link(s) to work**:
+Nothing new.
+
+## Friday, 2 June
 
 **Today's Progress**
 * Finished SassShop tutorial
