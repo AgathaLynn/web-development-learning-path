@@ -1,0 +1,18 @@
+@for $i from 1 through 10 {
+  #ring-#{$i} {
+    width: percentage(0.2 + (.08 * $i));
+    background: darken(#d3d2e4, percentage(.05 * $i));
+  }
+}
+
+.ring-container {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+}
+
+.ring {
+  margin: 0 auto;
+  height: 35px;
+  border-radius: 15px;
+}

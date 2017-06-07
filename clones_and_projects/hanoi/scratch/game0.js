@@ -1,5 +1,5 @@
 // we have a (barely functional) towers of hanoi solution!
-let A = [5, 4, 3, 2, 1],
+let A = [6, 5, 4, 3, 2, 1],
       B = [],
       C = [];
 

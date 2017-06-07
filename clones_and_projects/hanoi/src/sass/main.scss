@@ -1,0 +1,23 @@
+@import "reset";
+@import "rings";
+
+body {
+  height: 100%;
+  width: 100%;
+}
+
+#game {
+  height: 80vh;
+  width: 80vw;
+  margin: 10vh 10vw;
+  position: relative;
+}
+
+.column {
+  width: 31%;
+  margin: 1%;
+  float: left;
+  height: 400px;
+  max-height: 100%;
+  position: relative;
+}
