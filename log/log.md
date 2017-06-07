@@ -1,5 +1,23 @@
 # Progress Log
 
+## Tuesday, 6 June
+
+**Today's Progress**
+* Completed week 1 of M101JS course
+* Worked on Towers of Hanoi project
+
+**Thoughts**:
+I used ES6 'class' syntax in the Towers of Hanoi project... and it's kind of pretty. My code uses generators (also pretty, by the way), and I initially had a bit of trouble figuring out how to get babel to convert them to ES5. I ended up using a solution I found on StackOverflow - which involves copy-pasting a polyfill into my code. I might try to figure out a better way later, but this "quick fix" got me coding again.
+
+**Link(s) to work**:
+Code for Towers of Hanoi project: [here](../clones_and_projects/hanoi).
+
+
+## Monday, 5 June
+
+**Today's Progress**
+* None to speak of
+
 ## Sunday, 4 June
 
 **Today's Progress**
