@@ -1,7 +1,7 @@
 @for $i from 1 through 10 {
   #ring-#{$i} {
     width: percentage(0.2 + (.08 * $i));
-    background: darken(#d3d2e4, percentage(.05 * $i));
+    background: darken($color-main, percentage(.05 * $i));
   }
 }
 

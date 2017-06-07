@@ -1,4 +1,8 @@
-// tools for modeling the towers as an array
+/////
+// 'BUILDING BLOCK' COMPONENTS
+/////
+
+// tools for tracking the current game state
 class Towers {
   constructor(size) {
     this.A = Array(size).fill(0).map((val, i) => i + 1);
@@ -33,7 +37,28 @@ class Display {
   }
 }
 
-function start(col1, col2, col3, size) {
+// generator function to solve towers of hanoi puzzle
+function* solve(start, end, temp, count) {
+
+  // if we're out of bounds or moving zero rings, just return
+  if (count > 10 || count < 1) {
+    return;
+  }
+
+  // move tower of height count - 1 to temp
+  // move bottom ring to end
+  // move tower of height count - 1 to end
+  yield* solve(start, temp, end, count - 1);
+  yield {from: start, to: end};
+  yield* solve(temp, end, start, count - 1);
+}
+
+/////
+// FUNCTION TO RUN ANIMATION (USES BUILDING BLOCKS)
+/////
+
+// function to run animation
+function animate(col1, col2, col3, size, speed) {
 
   // create objects and iterator
   const towers = new Towers(size);
@@ -51,10 +76,40 @@ function start(col1, col2, col3, size) {
       display.render(...towers.columns());
     }
     else {
+      // at game over, clear interval and show menu
       clearInterval(game);
+      setTimeout(function() {
+        document.getElementById('options').style.display = 'block';
+      }, 1000);
     }
-  }, 600);
+  }, speed);
 }
 
-// start animation
-start('A', 'B', 'C', 10);
+/////
+// EVENT LISTENERS
+/////
+
+// listener for count change (number of towers)
+document.getElementById('count').addEventListener('input', function(e) {
+  document.getElementById('count-value').innerHTML = e.target.value;
+});
+
+// listener for speed change (speed of animation)
+document.getElementById('speed').addEventListener('input', function(e) {
+  let value = 'slow';
+  if (e.target.value > 2) {
+    value = e.target.value < 6 ? 'med' : 'fast';
+  }
+  document.getElementById('speed-value').innerHTML = value;
+});
+
+// listener for form submit
+document.getElementById('start').addEventListener('click', function() {
+  const form = document.getElementById('options');
+
+  const count = parseInt(form.elements.count.value);
+  const speed = 1000 - (100 * parseInt(form.elements.speed.value));
+
+  form.style.display = 'none';
+  animate('A', 'B', 'C', count, speed);
+});

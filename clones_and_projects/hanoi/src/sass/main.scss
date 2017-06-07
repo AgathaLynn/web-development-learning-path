@@ -1,16 +1,18 @@
+@import "vars";
 @import "reset";
+@import "form";
 @import "rings";
 
 body {
   height: 100%;
   width: 100%;
+  color: darken($color-main, 50%);
+  font-family: sans-serif;
+  font-size: 25px;
 }
 
 #game {
-  height: 80vh;
-  width: 80vw;
-  margin: 10vh 10vw;
-  position: relative;
+  @include block;
 }
 
 .column {

@@ -6,6 +6,24 @@
     <link rel='stylesheet' href='main.css'>
   </head>
   <body>
+    <form id='options'>
+      <h1>Towers of Hanoi Puzzle</h1>
+
+      <label for='count'>Number of Towers</label>
+      <div>
+        <input id='count' name='count' type='range' min='5' max='10' value='5'>
+        <span id='count-value'>5</span>
+      </div>
+
+      <label for='speed'>Animation Speed</label>
+      <div>
+        <input id='speed' name='speed' type='range' min='0' max='8' value='0'>
+        <span id='speed-value'>slow</span>
+      </div>
+
+      <input type='button' value='Start Animation' id='start'>
+    </form>
+
     <div id='game'>
       <div class='column'>
         <div id='A' class='ring-container'></div>
