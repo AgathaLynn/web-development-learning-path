@@ -1,5 +1,16 @@
 # Progress Log
 
+## Wednesday, 7 June
+
+**Today's Progress**
+* Finished Towers of Hanoi project
+
+**Thoughts**:
+This project almost seemed too easy for a "final project" (which is kind of what it feels like, given its location at the end of tier 1), but I actually learned a lot doing it - the "easier" JavaScript just allowed me to focus more on the newer content. Like using separate `src` and `dist` folders, and using Babel and Sass and Gulp. And that was actually *necessary*, I think - because those things definitely don't come naturally yet. I'm doing a lot of going back and looking things up as I go. 
+
+**Link(s) to work**:
+Code for Towers of Hanoi project: [here](../clones_and_projects/hanoi).
+
 ## Tuesday, 6 June
 
 **Today's Progress**
