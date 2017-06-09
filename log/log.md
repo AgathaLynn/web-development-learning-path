@@ -1,12 +1,25 @@
 # Progress Log
 
+## Thursday, 8 June
+
+**Today's Progress**
+* Continued *JavaScript Allongé* (up to "Emulating Multiple Inheritance")
+* Added Section 2 to README (I'm officially switching over to the CS track)
+* Deployed Towers of Hanoi solution to surge.sh
+
+**Thoughts**:
+This hasn't been a terribly productive week for me programming-wise. (Lots of other stuff going on.) Glad I got at least a little bit of stuff done today.
+
+**Link(s) to work**:
+Towers of Hanoi live version: [here](http://hanoi-towers.surge.sh/)
+
 ## Wednesday, 7 June
 
 **Today's Progress**
 * Finished Towers of Hanoi project
 
 **Thoughts**:
-This project almost seemed too easy for a "final project" (which is kind of what it feels like, given its location at the end of tier 1), but I actually learned a lot doing it - the "easier" JavaScript just allowed me to focus more on the newer content. Like using separate `src` and `dist` folders, and using Babel and Sass and Gulp. And that was actually *necessary*, I think - because those things definitely don't come naturally yet. I'm doing a lot of going back and looking things up as I go. 
+This project almost seemed too easy for a "final project" (which is kind of what it feels like, given its location at the end of tier 1), but I actually learned a lot doing it - the "easier" JavaScript just allowed me to focus more on the newer content. Like using separate `src` and `dist` folders, and using Babel and Sass and Gulp. And that was actually *necessary*, I think - because those things definitely don't come naturally yet. I'm doing a lot of going back and looking things up as I go.
 
 **Link(s) to work**:
 Code for Towers of Hanoi project: [here](../clones_and_projects/hanoi).
