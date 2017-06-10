@@ -1,5 +1,16 @@
 # Progress Log
 
+## Friday, 9 June
+
+**Today's Progress**
+* Continued *JavaScript Allongé* (Up to "Class Decorators beyond ES6/ECMAScript 2015")
+* Started *How to Code: Simple Data* (Up to "Constant Definitions")
+
+**Thoughts**:
+
+**Link(s) to work**:
+Practice code from *JavaScript Allongé*: [requireAll](../js-allonge/require-all.js) & [once](../js-allonge/once.js)
+
 ## Thursday, 8 June
 
 **Today's Progress**
