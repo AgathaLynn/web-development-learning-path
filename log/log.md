@@ -1,5 +1,16 @@
 # Progress Log
 
+## Saturday, 10 June
+
+**Today's Progress**
+* Continued *How to Code: Simple Data* (Up to "Discovering Primitives")
+
+**Thoughts**:
+Right now, the "How to Code" course is annoyingly slow. I'm hoping it's just the first module, and that things will pick up soon.
+
+**Link(s) to work**:
+None today.
+
 ## Friday, 9 June
 
 **Today's Progress**
