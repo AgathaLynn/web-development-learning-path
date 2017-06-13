@@ -1,5 +1,15 @@
 # Progress Log
 
+## Monday, 12 June
+
+**Today's Progress**
+* MongoDB course - Week 2 videos (up to "Regex Operator") & HW 2.1 - 2.5
+
+## Sunday, 11 June
+
+**Today's Progress**
+Nothing today
+
 ## Saturday, 10 June
 
 **Today's Progress**
