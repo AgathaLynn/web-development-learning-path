@@ -32,7 +32,7 @@ Note: Courses/Books/Projects that are part of the "Get Job-Ready" path are in bo
 | Read "Project Specification Documents" | [link](http://www.pixelearth.net/pages/project-specification) | 05/04/2017 |
 | Effective Thinking Through Mathematics | [link](https://www.edx.org/course/effective-thinking-through-mathematics-utaustinx-ut-9-01x-0) | 05/11/2017 |
 | Setting Up ES6 | [link](https://leanpub.com/setting-up-es6/read) | 05/30/2017 |
-| **JavaScript Allongé, the "Six" Edition** | [link](https://leanpub.com/javascriptallongesix) | |
+| **JavaScript Allongé, the "Six" Edition** | [link](https://leanpub.com/javascriptallongesix) | 06/14/2017 |
 | Getting Sassy with CSS | [link](http://www.sassshop.com/#/) | 06/02/2017 |
 | Project: Build online Towers of Hanoi solver | | 06/08/2017 |
 | ~ *Project: Build a CSS template inspired by one of [these](https://forum.freecodecamp.com/clicks/track?url=http%3A%2F%2Fwww.free-css.com%2Ffree-css-templates&post_id=118073&topic_id=64516)* | |
@@ -78,8 +78,9 @@ Note: Am switching over to the *Computer Science and Web Development* path. Proj
 | Codingame Classic Puzzles - Medium | [link](https://www.codingame.com/) | |
 |  M101JS: MongoDB for Node.js Developers| [link](https://university.mongodb.com/courses/M101JS/about)  |  |
 
-## Things I've Completed
+## Some Things I've Completed
 
 ### Completed Projects (Demos and Live Versions)
 
+* Writer's Block website: [http://writers-block.surge.sh/](http://writers-block.surge.sh/)
 * Towers of Hanoi Solver: [http://hanoi-towers.surge.sh/](http://hanoi-towers.surge.sh/)

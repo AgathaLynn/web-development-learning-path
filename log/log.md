@@ -1,5 +1,17 @@
 # Progress Log
 
+## Wednesday, 14 June
+
+**Today's Progress**
+* Finished reading *JavaScript Allongé*
+* Continued *How to Code: Simple Data* (Up to "Enumeration")
+
+## Tuesday, 13 June
+
+**Today's Progress**
+* MongoDB course - finished week 2 videos and exercises
+* Continued *How to Code: Simple Data* (Up to "When Tests are Incorrect")
+
 ## Monday, 12 June
 
 **Today's Progress**
