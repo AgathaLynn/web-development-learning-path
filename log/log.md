@@ -1,5 +1,38 @@
 # Progress Log
 
+## Monday, 19 June
+
+**Today's Progress**
+* Continued *How to Code: Simple Data* (finished module 3a)
+* MongoDB Course - Week 3 through "$regex" video
+
+**Thoughts**:
+I'm not really enjoying the *How to Code* course. It's slow - and it's all videos, which means that you can't skip or skim the stuff that you already know. Which, quite frankly, is almost all of it. (As far as concepts are concerned, anyway - the BSL syntax and the technicalities of the template "rules" are new - but those aren't the things that matter, really.)
+
+On the other hand - P1xt's guides have worked out well for me so far... so I don't want to abandon ship now. It's just that watching videos and typing out practice code is a really, really poor substitution for actually *making* things. I miss coding.
+
+**Link(s) to work**:
+
+## Sunday, 18 June
+
+**Today's Progress**
+* Continued *How to Code: Simple Data* (up to "Improving a World Program - Add SPEED")
+
+## Saturday, 17 June
+
+**Today's Progress**
+* Continued *How to Code: Simple Data* (finished module 2)
+
+## Friday, 16 June
+
+**Today's Progress**
+* Continued *How to Code: Simple Data* (Up to "HtDF with Itemization")
+
+## Thursday, 15 June
+
+**Today's Progress**
+Almost Zilch
+
 ## Wednesday, 14 June
 
 **Today's Progress**
