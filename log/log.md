@@ -1,5 +1,17 @@
 # Progress Log
 
+## Tuesday, 20 June
+
+**Today's Progress**
+* MongoDB Course - finished Week 3 Videos and Homework
+* *How to Code: Simple Data*, continued (up to "HtDW With Compound Data")
+* Pair programming - Pig Latin translator
+
+**Thoughts**:
+
+**Link(s) to work**:
+Pig latin translator: [here](../code-snippets/pig-latin-translator.js)
+
 ## Monday, 19 June
 
 **Today's Progress**
@@ -10,8 +22,6 @@
 I'm not really enjoying the *How to Code* course. It's slow - and it's all videos, which means that you can't skip or skim the stuff that you already know. Which, quite frankly, is almost all of it. (As far as concepts are concerned, anyway - the BSL syntax and the technicalities of the template "rules" are new - but those aren't the things that matter, really.)
 
 On the other hand - P1xt's guides have worked out well for me so far... so I don't want to abandon ship now. It's just that watching videos and typing out practice code is a really, really poor substitution for actually *making* things. I miss coding.
-
-**Link(s) to work**:
 
 ## Sunday, 18 June
 
