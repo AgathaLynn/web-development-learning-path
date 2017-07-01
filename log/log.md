@@ -1,5 +1,33 @@
 # Progress Log
 
+## Friday, 30 June
+
+**Today's Progress**
+* *How to Code: Simple Data*: finished module 4b
+* Worked on Build.to.Learn project (routes and database updates)
+
+**Thoughts:**
+The *How to Code* material feels too easy (I know I'm learning stuff... but the pace is so slow). And the Build.to.Learn project feels too hard, like I'm in way over my head.
+
+I think I prefer too hard. At least when I'm feeling halfway decent.
+
+**Link(s) to work**:
+Build.to.Learn project repo: [here](https://github.com/sego90/chingu)
+
+#### Note:
+I've been really bad at logging over the past few days... So... Here we go again!
+
+## Tuesday, 27 June
+
+**Today's Progress**
+* MongoDB course - finished Week 4 videos and homework
+* *How to Code: Simple Data*: finished module 4a
+
+## Monday, 26 June
+
+**Today's Progress**
+* Finished module 3b of *How to Code: Simple Data*
+
 ## Tuesday, 20 June
 
 **Today's Progress**
