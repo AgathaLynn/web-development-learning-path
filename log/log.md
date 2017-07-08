@@ -1,5 +1,20 @@
 # Progress Log
 
+## Friday, 7 July
+
+**Today's Progress**
+* Started logging again (!)
+* *How to Code: Simple Data*: up through "The Last Helper" (in module 5b)
+* Worked on Build-to-Learn project (functions to find and update partners in db)
+
+**Thoughts**
+My biggest struggle with the Build-to-Learn project right now is, I think, lack of a clear idea of what the end product should look like. There are lots of things that I *could* work on - but either I'm not sure how to pieces fit into the final product, or I'm not sure whether my vision matches D's... I'm also slightly worried about handling errors. (Testing would be nice... even there, though, I'm not sure what to test.)
+
+I'm learning a lot, though. And enjoying the project.
+
+**Links to work**:
+Build-to-Learn project repo: [here](https://github.com/sego90/chingu)
+
 ## Friday, 30 June
 
 **Today's Progress**
