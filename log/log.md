@@ -1,5 +1,17 @@
 # Progress Log
 
+## Saturday, 8 July
+
+**Today's Progress**
+* *How to Code: Simple Data*: Did practice problem & started quiz
+* Continued work on Build-to-Learn project
+
+**Thoughts**:
+After working on the build-to-learn project, I think I'm slowly becoming more comfortable with (a) reading other people's code and (b) making sense of other projects, with lots of files and stuff. Those aren't the most important parts of the build-to-learn experience, of course... but they're still important things to be able to do. 
+
+**Link(s) to work**:
+Build-to-Learn project repo: [here](https://github.com/sego90/chingu)
+
 ## Friday, 7 July
 
 **Today's Progress**
