@@ -1,5 +1,36 @@
 # Progress Log
 
+## Wednesday, 22 November
+
+**Today's Progress**
+* Finished *How to Code: Complex Data*: Module 7
+* Updated daily log (today's and yesterday's progress)
+
+**Thoughts**:
+Yes, updating the daily log *does* merit mentioning. If only because it meant opening a code editor and making git commits, for the first time in months. And also because it carries with it a sort of unofficial commitment to actually doing something (almost) every day.
+
+**Link(s) to work**:
+* None yet. Patience. Linkable progress should be coming soon.
+
+## Tuesday, 21 November
+
+**Today's Progress**
+* *How to Code: Simple Data*: Finished "Space Invaders" game (final project)
+* Started *How to Code: Complex Data*
+
+**Thoughts**:
+So... I ended up taking quite a break from programming. It wasn't intentional. Medical stuff kind of spiraled in a direction it wasn't supposed to. But things are going in the right direction, now, and I'm trying to ease back into programming. I've been working on finishing the final project for *How to Code: Simple Data* over the last couple of days, on and off, and am ready to start programming again in earnest.
+
+Jumping back into the "How to Code" course was easier than I expected it to be. Here's hoping that it will go the same way with most other things (Javascript, Git, concepts, etc.)
+
+**Link(s) to work**:
+* None today
+
+## Sunday, 9 July
+
+**Today's Progress**
+* *How to Code: Simple Data*: Finished module 5
+
 ## Saturday, 8 July
 
 **Today's Progress**
@@ -7,7 +38,7 @@
 * Continued work on Build-to-Learn project
 
 **Thoughts**:
-After working on the build-to-learn project, I think I'm slowly becoming more comfortable with (a) reading other people's code and (b) making sense of other projects, with lots of files and stuff. Those aren't the most important parts of the build-to-learn experience, of course... but they're still important things to be able to do. 
+After working on the build-to-learn project, I think I'm slowly becoming more comfortable with (a) reading other people's code and (b) making sense of other projects, with lots of files and stuff. Those aren't the most important parts of the build-to-learn experience, of course... but they're still important things to be able to do.
 
 **Link(s) to work**:
 Build-to-Learn project repo: [here](https://github.com/sego90/chingu)
