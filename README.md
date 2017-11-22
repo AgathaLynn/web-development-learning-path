@@ -43,9 +43,10 @@ Note: Am switching over to the *Computer Science and Web Development* path. Proj
 
 | Course/Book/Project | Link | Completed |
 | ------------------- | ---- | --------- |
-| How to Code: Simple Data | [link](https://www.edx.org/course/how-code-simple-data-ubcx-htc1x) |  |
+| How to Code: Simple Data | [link](https://www.edx.org/course/how-code-simple-data-ubcx-htc1x) | 11/21/17 |
 | How to Code: Complex Data | [link](https://www.edx.org/course/how-code-complex-data-ubcx-htc2x) |  |
 | Software Construction: Data Abstraction | [link](https://www.edx.org/course/software-construction-data-abstraction-ubcx-softconst1x) |  |
+| Software Construction: Object-Oriented Design | [link](https://www.edx.org/course/software-construction-object-oriented-ubcx-softconst2x) |  |
 | DOM Enlightenment | [link](http://domenlightenment.com/) |  |
 | FCC Project: Simon Game |  |  |
 | ~*Read up on & start using Gulp* | [link](http://gulpjs.com/) |  |
