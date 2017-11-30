@@ -1,5 +1,20 @@
 # Progress Log
 
+## Thursday, 30 November
+
+**Today's Progress**
+* Finished *How to Code: Complex Data*, through Module 9
+
+**Thoughts**
+Obviously I didn't do modules 8 and 9 all today - I finished them over the past week, but haven't been updating progress here. I'm not currently using git (or github) for anything, and so haven't been using the log.
+
+I'm looking forward to finishing this course and getting back to real projects, though. If everything goes well, I should be done with this course in 2 weeks, maybe 3. And we'll go from there.
+
+I don't like the way that this course explains closure, much. I don't think I'd have understood it if I didn't already understand it.
+
+**Link(s) to work**:
+* Still none.
+
 ## Wednesday, 22 November
 
 **Today's Progress**
