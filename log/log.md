@@ -1,5 +1,16 @@
 # Progress Log
 
+## Friday, 1 December
+
+**Today's Progress**
+* Continued working on *How to Code: Complex Data* - through Module 10 Problem: "Generative Recursion P1 - Circle Fractal"
+
+**Thoughts**
+Keeping on keeping on.
+
+**Link(s) to work**:
+* Still none
+
 ## Thursday, 30 November
 
 **Today's Progress**
