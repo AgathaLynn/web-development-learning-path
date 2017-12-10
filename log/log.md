@@ -1,5 +1,28 @@
 # Progress Log
 
+## Saturday, 9 December
+
+**Today's Progress**
+* Finished Module 10 of *How to Code: Complex Data*
+
+**Thoughts**
+I didn't do this all today - this was what I did over the last couple of days.
+
+## Wednesday, 6 December
+
+**Today's Progress**
+* Started Module 10b of *How to Code: Complex Data* (I got up to the "Making a Wish List" video)
+
+**Thoughts**
+
+## Tuesday, 5 December
+
+**Today's Progess**
+* Finished Module 10a of *How to Code: Complex Data*
+
+**Thoughts**
+Generative recursion feels almost more natural than natural (data-driven) recursion. This week will probably be another slow week, programming-wise, but I'll try to do at least a little bit every day, if I can.
+
 ## Friday, 1 December
 
 **Today's Progress**
